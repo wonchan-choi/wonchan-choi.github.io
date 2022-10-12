@@ -1,5 +1,4 @@
-<img src="https://github.com/wonchan-choi/wonchan-choi.github.io/blob/main/img/wonchan_choi_cropped_and_resized.jpg" width=20% height=20%>
-
+![Wonchan Choi](/img/wonchanc_choi_cropped_and_resized.jpg)
 I am an assistant professor at the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/) at the University of Wisconsin-Milwaukee (UWM). I completed a PhD in [Information Studies](https://ischool.cci.fsu.edu) at Florida State University. Before joining UWM, I worked as a postdoctoral fellow at the [Business School](https://www.wpi.edu/academics/business), Worcester Polytechnic Institute in Massachusetts.
 
 ### Research
