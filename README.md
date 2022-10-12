@@ -1,4 +1,4 @@
-## Wonchan Choi, PhD
+## Wonchan Choi
 
 Welcome! 
 
