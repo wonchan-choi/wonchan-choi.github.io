@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an associate professor at the UWM iSchool. My research program involves studies of **information behavior** and **human-computer interaction**. My [**current projects**](https://wonchan-choi.github.io/research.html) focus on:
+I am an associate professor at the UWM iSchool. My research program involves studies of **information behavior** and **human-computer interaction**. My [**current projects**]() focus on:
 - Credibility assessment of user- and AI-generated content
 - Generative AI literacy in academic settings
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
