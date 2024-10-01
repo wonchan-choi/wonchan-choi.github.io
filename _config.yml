@@ -21,7 +21,7 @@ repository               : "wonchan-choi/wonchan-choi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wonchan_choi_cropped_and_resized.jpg"
   name             : "Wonchan Choi, PhD"
   bio              : "Associate Professor"
   pronouns         : "He/His/Him" 
