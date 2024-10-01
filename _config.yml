@@ -23,27 +23,26 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wonchan Choi, PhD"
+  bio              : "Associate Professor"
   pronouns         : "He/His/Him" 
-  bio              : "Associate Professor, iSchool at the University of Wisconsin-Milwaukee"
-  location         : "https://maps.app.goo.gl/n6qJsbsDx7bAPqPc6"
-  employer         : "University of Wisconsin-Milwaukee"
-  uri              : https://uwm.edu/
+  employer         : "School of Information Studies, University of Wisconsin-Milwaukee"
+  uri              : https://uwm.edu/informationstudies/
   email            : "wchoi@uwm.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6301-4969"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Wonchan-Choi"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
