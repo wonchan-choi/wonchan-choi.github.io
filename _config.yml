@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wonchan's Website"
+title                    : "Wonchan Choi"
 title_separator          : "-"
-name                     : &name "Wonchan Choi"
-description              : &description "personal description"
+name                     : &name "Wonchan Choi, PhD"
+description              : &description "Dr. Choi's personal website"
 url                      : https://wonchan-choi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wonchan-choi/wonchan-choi.github.io"
