@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wonchan Choi"
 title_separator          : "-"
-name                     : &name "Wonchan Choi, PhD"
+name                     : ""
 description              : &description "Dr. Choi's personal website"
 url                      : https://wonchan-choi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
