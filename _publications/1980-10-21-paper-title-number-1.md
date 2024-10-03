@@ -3,7 +3,7 @@ title: "Wonchan Choi"
 collection: publications
 permalink: /publication/1980-10-21-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 1980-10-21 00:00:00
+date: 1980-10-21
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

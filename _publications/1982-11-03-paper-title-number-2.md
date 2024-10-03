@@ -3,7 +3,7 @@ title: "Jin A Park"
 collection: publications
 permalink: /publication/1982-11-03-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 1982-11-03 00:00:00
+date: 1982-11-03
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

@@ -3,7 +3,7 @@ title: "Eunjoon Choi"
 collection: publications
 permalink: /publication/2017-05-19-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2017-05-19 00:00:00
+date: 2017-05-19
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
