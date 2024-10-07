@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : ""
 description              : &description "Dr. Choi's personal website"
 url                      : https://wonchan-choi.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://wonchan-choi.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "wonchan-choi/wonchan-choi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
