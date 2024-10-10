@@ -20,6 +20,3 @@ I am an associate professor at the UWM iSchool. My research program involves stu
 | 2024-08-19            | Promoted to Associate Professor.            |
 | 2024-07-01            | Two posters are accepted for the [2024 Annual Meeting of ASIS&T](https://www.asist.org/am24/): (1) Reflective and Formative Indicators of Information Credibility on Social Media; (2) College Students’ Metaphors for ChatGPT: An Exploratory Study.   |
 | 2024-01-01            | The grand opening of this website.          |
-
-## Visitors Map
-<script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
