@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Studies, Florida State University, Tallahassee, FL, 2015
+* Ph.D. in Information Studies, Florida State University, Tallahassee, FL, 2015
 * Master of Library and Information Science, Pusan National University, Busan, South Korea, 2008
 * Bachelor of Library and Information Science, Pusan National Univeristy, Busan, South Korea, 2003
 
@@ -42,4 +42,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024–present MSIST Porgram Committee
+* 2023–2024 BSIST Program Committee
+
