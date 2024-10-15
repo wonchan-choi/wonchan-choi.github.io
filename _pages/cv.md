@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ciriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* Ph.D. in Information Studies, Florida State University, Tallahassee, FL, 2015
+* Master of Library and Information Science, Pusan National University, Busan, South Korea, 2008
+* Bachelor of Library and Information Science, Pusan National Univeristy, Busan, South Korea, 2003
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Appointment
+* Associate Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2024–present
+* Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2018–2024
+* Visiting Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2017–2018
+* Postdoctoral Fellow, Business School, Worcester Polytechnic Institute, Worcester, MA, 2015–2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service and leadership
+* 2024–present MSIST Porgram Committee
+* 2023–2024 BSIST Program Committee
+
