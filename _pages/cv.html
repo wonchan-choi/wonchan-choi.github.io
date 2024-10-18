@@ -56,6 +56,11 @@ redirect_from:
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
 
 <h2>Service</h2> Service and leadership
 * 2024–present MSIST Porgram Committee
