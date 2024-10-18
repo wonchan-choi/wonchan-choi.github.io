@@ -25,10 +25,38 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2>
+        {% assign title_shown = true %}
+      {% endunless %}
+      <ul>
+        <li>
+        {% if post.citation and post.paperurl and post.slidesurl %}
+          {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a>
+        {% elsif post.citation and post.paperurl %}
+          {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a>
+        {% elsif post.citation and post.slidesurl %}
+          {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a>
+        {% elsif post.citation %}
+          {{ post.citation }}
+        {% elsif post.paperurl %}
+          <a href=" {{ post.paperurl }} ">Download Paper</a>
+        {% elsif post.slidesurl %}
+          Download <a href="{{ post.slidesurl }}">Download Slides</a>
+        {% endif %}
+        </li>
+      </ul>
+    {% endfor %}
+  {% endfor %}
+{% else %}
+
 ## Service and leadership
 * 2024–present MSIST Porgram Committee
 * 2023–2024 BSIST Program Committee
