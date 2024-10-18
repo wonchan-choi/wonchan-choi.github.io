@@ -8,23 +8,22 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Education</h2>
-* Ph.D. in Information Studies, Florida State University, Tallahassee, FL, 2015
-* Master of Library and Information Science, Pusan National University, Busan, South Korea, 2008
-* Bachelor of Library and Information Science, Pusan National Univeristy, Busan, South Korea, 2003
+<h1>Education</h1>
+<ul>
+    <li>Ph.D. in Information Studies, Florida State University, Tallahassee, FL, 2015</li>
+    <li>Master of Library and Information Science, Pusan National University, Busan, South Korea, 2008</li>
+    <li>Bachelor of Library and Information Science, Pusan National Univeristy, Busan, South Korea, 2003</li>
+</ul>
 
-<h2>Academic Appointments</h2>
-* Associate Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2024–present
-* Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2018–2024
-* Visiting Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2017–2018
-* Postdoctoral Fellow, Business School, Worcester Polytechnic Institute, Worcester, MA, 2015–2017
+<h1>Academic Appointments</h1>
+<ul>
+    <li>Associate Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2024–present</li>
+    <li>Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2018–2024</li>
+    <li>Visiting Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2017–2018</li>
+    <li>Postdoctoral Fellow, Business School, Worcester Polytechnic Institute, Worcester, MA, 2015–2017</li>
+</ul>
 
-<h2>Publications</h2>
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<h2>Teaching</h2>
+<h1>Teaching</h1>
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -60,6 +59,11 @@ redirect_from:
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+<h1>Publications</h1>
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 <h2>Service</h2> Service and leadership
