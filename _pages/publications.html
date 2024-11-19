@@ -1,13 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">my Google Scholar profile</a>.</div>
 
 {% include base_path %}
 
@@ -20,10 +17,26 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <ul>
+        <li>
+        {% if post.citation and post.paperurl and post.slidesurl %}
+          {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a>
+        {% elsif post.citation and post.paperurl %}
+          {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a>
+        {% elsif post.citation and post.slidesurl %}
+          {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a>
+        {% elsif post.citation %}
+          {{ post.citation }}
+        {% elsif post.paperurl %}
+          <a href=" {{ post.paperurl }} ">Download Paper</a>
+        {% elsif post.slidesurl %}
+          Download <a href="{{ post.slidesurl }}">Download Slides</a>
+        {% endif %}
+        </li>
+      </ul>
     {% endfor %}
   {% endfor %}
 {% else %}
