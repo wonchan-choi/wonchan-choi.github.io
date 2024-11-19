@@ -1,5 +1,5 @@
 ---
-title: "Ciriculum Vitae"
+title: "CIRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,22 +8,22 @@ redirect_from:
 
 {% include base_path %}
 
-<h1>Education</h1>
+<h2>Education</h2></ hr>
     <ul>
         <li>Ph.D. in Information Studies, Florida State University, Tallahassee, FL, 2015</li>
         <li>Master of Library and Information Science, Pusan National University, Busan, South Korea, 2008</li>
         <li>Bachelor of Library and Information Science, Pusan National Univeristy, Busan, South Korea, 2003</li>
     </ul>
 
-<h1>Academic Appointments</h1>
+<h2>Academic and Professional Appointments</h2>
     <ul>
-        <li>Associate Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2024–present</li>
-        <li>Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2018–2024</li>
-        <li>Visiting Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2017–2018</li>
+        <li>Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2024–present</li>
+        <li>Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2018–2024</li>
+        <li>Assistant Professor, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, 2017–2018</li>
         <li>Postdoctoral Fellow, Business School, Worcester Polytechnic Institute, Worcester, MA, 2015–2017</li>
     </ul>
 
-<h1>Teaching</h1>
+<h2>Research</h2>
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -32,7 +32,7 @@ redirect_from:
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
+        <h3>{{ category[1].title }}</h3>
         {% assign title_shown = true %}
       {% endunless %}
       <ul>
@@ -60,12 +60,11 @@ redirect_from:
   {% endfor %}
 {% endif %}
 
-<h1>Publications</h1>
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<h2>Teaching</h2>
 
-<h1>Service</h1> Service and leadership
-* 2024–present MSIST Porgram Committee
-* 2023–2024 BSIST Program Committee
+<h2>Servicea</h2> 
+<ul>
+  <li>Service and leadership</li>
+  <li>2024–present MSIST Porgram Committee</li>
+  <li>2023–2024 BSIST Program Committee</li>
 
