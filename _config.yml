@@ -1,9 +1,9 @@
 title: "Wonchan Choi"
-logo: /assets/img/logo.png
+logo: /assets/img/wchoi-pic-cropped.jpg
 description: >
   Associate Professor @ UWM iSchool  
   <br>  
   Information Scientist
-show_downloads: true
+show_downloads: false
 google_analytics: ""  # leave empty but valid
 theme: jekyll-theme-minimal
