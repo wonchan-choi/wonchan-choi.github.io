@@ -1,9 +1,15 @@
-title: "Wonchan Choi"
+title: "Wonchan Choi, PhD"
 logo: /assets/img/wchoi-pic-cropped.jpg
 description: >
+  Associate Professor 
+  Northwest Quadrant Buidling D, Room 2890
+  School of Information Studies, University of Wisconsin Milwaukee
+  2025 E Newport Ave
+  Milwaukee, WI 53201
+  <i>He/His</i>
+
   <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-  <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
-  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a><br>
+  <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a><br>
 show_downloads: false
 google_analytics: ""  # leave empty but valid
 theme: jekyll-theme-minimal
