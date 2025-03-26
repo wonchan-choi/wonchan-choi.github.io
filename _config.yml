@@ -1,12 +1,9 @@
 title: "Wonchan Choi"
 logo: /assets/img/wchoi-pic-cropped.jpg
 description: >
-  Email: wchoi@uwm.edu 
-  <br>
-  [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en)  
-  <br>
-  [ORCID](https://orcid.org/0000-0001-6301-4969)
-  <br>
+📧 <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
+  <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a><br>
 show_downloads: false
 google_analytics: ""  # leave empty but valid
 theme: jekyll-theme-minimal
