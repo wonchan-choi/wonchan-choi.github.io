@@ -6,9 +6,9 @@ description: >
   University of Wisconsin-Milwaukee <br>
   <i>He/Him/His</i><br>
   wchoi@uwm.edu<br>
-  <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969" target="_blank">ORCID</a> | <a href="/assets/files/Choi-CV.pdf" target="_blank">CV</a><br>
+  <b><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank">Google Scholar</a></b> | <b><a href="https://orcid.org/0000-0001-6301-4969" target="_blank">ORCID</a></b> | <b><a href="/assets/files/Choi-CV.pdf" target="_blank">CV</a></br>
   <br>
-  <b><a href="/publications/">PUBLICATIONS</a></b>
+  <h2><b><a href="publications.md">PUBLICATIONS</a></b></h2>
   
 show_downloads: false
 google_analytics: ""  # leave empty but valid
