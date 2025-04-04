@@ -1,16 +1,22 @@
 import pdfplumber
 import re
 import pandas as pd
+import os
 
 # --- Step 1. Extract the relevant text from the CV PDF ---
 
-pdf_file = "Choi-CV.pdf"
+# Construct the absolute path to the PDF (adjust as needed)
+script_dir = os.path.dirname(os.path.realpath(__file__))
+pdf_file = os.path.join(script_dir, "Choi-CV.pdf")
+
 all_text = ""
 
 # Open and read all pages from the CV
 with pdfplumber.open(pdf_file) as pdf:
     for page in pdf.pages:
-        all_text += page.extract_text() + "\n"
+        text = page.extract_text()
+        if text:
+            all_text += text + "\n"
 
 # Extract the "RESEARCH, SCHOLARSHIP, & PROFESSIONAL ACTIVITIES" section.
 # We assume this section begins at its header and ends at the next major section (e.g., "Presentations at Academic")
@@ -86,7 +92,7 @@ def generate_markdown_for_df(df, header):
     return markdown
 
 # Generate the full publications page with two subsections
-with open("publications.md", "w", encoding="utf-8") as f:
+with open(os.path.join(script_dir, "publications.md"), "w", encoding="utf-8") as f:
     f.write("---\nlayout: page\ntitle: Publications\npermalink: /publications/\n---\n\n")
     f.write("# 📚 Publications\n\n")
     f.write("Below is a list of publications extracted from the CV.\n\n")
@@ -104,6 +110,8 @@ for _, row in recent_papers.iterrows():
     recent_markdown += entry + "\n\n"
     recent_markdown += "</details>\n\n"
 
-with open("recent_papers.md", "w", encoding="utf-8") as f:
+with open(os.path.join(script_dir, "recent_papers.md"), "w", encoding="utf-8") as f:
     f.write("---\nlayout: home\n---\n\n")
     f.write(recent_markdown)
+
+print("Markdown files generated successfully!")
