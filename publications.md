@@ -65,6 +65,7 @@ https://doi.org/10.3743/KOSIM.2008.25.4.165
 - Chang, D. H., & Choi, W. (2008). Trends in integrated electronic resource management in academic libraries. 
 Journal of the Korean Society for Library and Information Science, 42(4), 201–221. 
 https://doi.org/doi:10.4275/KSLIS.2008.42.4.201
+
 ## Articles in Peer-Reviewed Conference Proceedings
 - Choi, W., Zhu, L., & Lee, H. S. (2024). Reflective and formative indicators of information credibility on social 
 media. Proceedings of the Association for Information Science & Technology, 61(1), 874–876. 
