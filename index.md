@@ -1,6 +1,7 @@
 ---
 title: HOME
 layout: default
+permalink: /
 ---
 
 # HOME
