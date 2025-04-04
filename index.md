@@ -11,3 +11,11 @@ My research program involves studies of **information behavior** and **human-com
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News
+
+{% for post in site.posts limit:5 %}
+**[{{ post.title }}]({{ post.url | relative_url }})**  
+*{{ post.date | date: "%B %d, %Y" }}*  
+
+{{ post.excerpt }}
+
+{% endfor %}
