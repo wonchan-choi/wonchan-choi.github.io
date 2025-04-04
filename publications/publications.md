@@ -1,8 +1,14 @@
 ---
-layout: page
-title: Publications
+layout: default
+title: PUBLICATIONS
 permalink: /publications/
 ---
+
+---
+title: HOME
+layout: default
+---
+
 
 # 📚 Publications
 
