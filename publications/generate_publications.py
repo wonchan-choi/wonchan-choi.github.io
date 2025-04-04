@@ -1,13 +1,15 @@
+import os
 import pdfplumber
 import re
 import pandas as pd
-import os
 
 # --- Step 1. Extract the relevant text from the CV PDF ---
 
-# Construct the absolute path to the PDF (adjust as needed)
+# Get the directory where this script is located
 script_dir = os.path.dirname(os.path.realpath(__file__))
-pdf_file = os.path.join(script_dir, "Choi-CV.pdf")
+# Construct the absolute path to the PDF file located in assets/files folder of your repository
+pdf_file = os.path.join(script_dir, "..", "assets", "files", "Choi-CV.pdf")
+print("Using PDF file:", pdf_file)
 
 all_text = ""
 
@@ -20,21 +22,30 @@ with pdfplumber.open(pdf_file) as pdf:
 
 # Extract the "RESEARCH, SCHOLARSHIP, & PROFESSIONAL ACTIVITIES" section.
 # We assume this section begins at its header and ends at the next major section (e.g., "Presentations at Academic")
-research_match = re.search(r'RESEARCH, SCHOLARSHIP, & PROFESSIONAL ACTIVITIES(.*?)Presentations at Academic', 
-                           all_text, re.DOTALL)
+research_match = re.search(
+    r'RESEARCH, SCHOLARSHIP, & PROFESSIONAL ACTIVITIES(.*?)Presentations at Academic',
+    all_text,
+    re.DOTALL
+)
 research_text = research_match.group(1) if research_match else all_text
 
 # --- Step 2. Isolate publication entries for journals and conferences ---
 
 # Locate the "Articles in Peer-Reviewed Journals" subsection
-journals_match = re.search(r'Articles in Peer-Reviewed Journals(.*?)Articles in Peer-Reviewed Conference Proceedings', 
-                            research_text, re.DOTALL)
+journals_match = re.search(
+    r'Articles in Peer-Reviewed Journals(.*?)Articles in Peer-Reviewed Conference Proceedings',
+    research_text,
+    re.DOTALL
+)
 journals_text = journals_match.group(1).strip() if journals_match else ""
 
 # Locate the "Articles in Peer-Reviewed Conference Proceedings" subsection.
 # We assume this section continues until the next major header (or end of text).
-conferences_match = re.search(r'Articles in Peer-Reviewed Conference Proceedings(.*?)(?:Presentations at Academic|$)', 
-                               research_text, re.DOTALL)
+conferences_match = re.search(
+    r'Articles in Peer-Reviewed Conference Proceedings(.*?)(?:Presentations at Academic|$)',
+    research_text,
+    re.DOTALL
+)
 conferences_text = conferences_match.group(1).strip() if conferences_match else ""
 
 # Split the text into individual publication entries.
