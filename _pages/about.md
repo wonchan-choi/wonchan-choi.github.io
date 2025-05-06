@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: About
 permalink: /
 subtitle: Associate Professor, <a href='https://uwm.edu/informationstudies/'>UWM iSchool</a>
