@@ -8,7 +8,8 @@ profile:
   align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: > wchoi@uwm.edu | [Google Scholar](https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en) 
+
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
