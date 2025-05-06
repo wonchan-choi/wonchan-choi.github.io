@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: Associate Professor, <a href='https://uwm.edu/informationstudies/'>UWM iSchool</a>
+subtitle: 
 
 profile:
   align: right
@@ -20,14 +20,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 **Welcome to my website!**
 
-I am an associate professor in the School of Information Studies (SOIS) at the University of Wisconsin–Milwaukee (UWM). Guided by a human-centered approach, my research aims to improve how people seek, use, and create information. I do this by (a) studying information behavior in technology-mediated environments, such as the web and AI-powered systems, and (b) designing usable and accessible information systems and services.
+I am an associate professor in the [School of Information Studies, the iSchool, at the University of Wisconsin–Milwaukee (UWM)](https://uwm.edu/informationstudies/). Guided by a human-centered approach, my research aims to improve how people seek, use, and create information. I do this by (a) studying information behavior in technology-mediated environments, such as the web and AI-powered systems, and (b) designing usable and accessible information systems and services.
 
 My current projects include:
 
