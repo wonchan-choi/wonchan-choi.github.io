@@ -6,8 +6,8 @@ subtitle: Associate Professor, <a href='#'>School of Information Studies, Univer
 
 profile:
   align: right
-  image: /assets/img/wonchan-pic-wide.jpg
-  image_circular: true # crops the image to make it circular
+  image: wonchan-pic-wide.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
