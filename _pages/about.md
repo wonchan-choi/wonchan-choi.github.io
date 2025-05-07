@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Welcome to my website!**
+Welcome to my website!
 
-I am an associate professor in the [School of Information Studies, the iSchool, at the University of Wisconsin–Milwaukee (UWM)](https://uwm.edu/informationstudies/). Guided by a human-centered approach, my research aims to improve how people seek, use, and create information. I do this by (a) studying information behavior in technology-mediated environments, such as the web and AI-powered systems, and (b) designing usable and accessible information systems and services.
+I am an associate professor in the [School of Information Studies, the iSchool, at the University of Wisconsin–Milwaukee (UWM)](https://uwm.edu/informationstudies/). My research aims to improve how people seek, use, and create information. I do this by (a) studying information behavior in technology-mediated environments, such as the web and AI-powered systems, and (b) designing usable and accessible information systems and services.
 
 My current projects include:
 
