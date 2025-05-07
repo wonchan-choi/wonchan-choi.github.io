@@ -2,14 +2,13 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Associate Professor @ University of Wisconsin-Milwaukee (UWM) School of Information Studies (SOIS)
+subtitle: <b>Associate Professor @ <a href="https://uwm.edu/informationstudies/">UWM iSchool</a></b>
 
 profile:
-  align: right
+  align: left
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    "<p>wchoi@uwm.edu</p>"
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
