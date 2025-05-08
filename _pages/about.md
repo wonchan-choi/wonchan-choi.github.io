@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
 subtitle: Associate Professor @ <a href="https://uwm.edu/informationstudies/">UWM iSchool</a>
 
@@ -9,9 +9,10 @@ profile:
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    Northwest Quadrant Buidling-D, Room 2890<br>
+    2025 E Newport Ave, Milwaukee, WI 53211, USA<br> 
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
-    <a href="/assets/pdf/Choi-CV.pdf">CV</a>
+    <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> | <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The goal of my research is to better understand and improve how people seek, use, and create information. 
+Welcome to my website! 
 
-Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, and contribute to the design of information systems and services that align with users’ needs and behaviors. My current projects aims to produce outcomes that beneift both academic research and real-world applications. Specifically, I'm working on developing: (a) **a theoretical framework for generative AI (GenAI) literacy  and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context; (b) **a psychometric scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots; and (c) **design guidelines for mobile digital libraries to improve accessiblity and usability for blind and visually impaired users**.
+My name is Wonchan Choi, and I am an associate professor at the [School of Information Studies](https://uwm.edu/informationstudies/) at the [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). 
+ 
+My research aims to better understand and improve how people seek, use, and create information to accomplsih various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that beneift both academic research and real-world applications. 
+
+My current projects focus on developing: 
+
+- **A theoretical framework for generative AI (GenAI) literacy  and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context
+- **A psychometric scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots
+- **Design guidelines for mobile digital libraries to improve accessiblity and usability for blind and visually impaired users**.
 
