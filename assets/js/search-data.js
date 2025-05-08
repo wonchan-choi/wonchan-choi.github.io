@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "Home",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -31,11 +31,16 @@ ninja.data = [{
             },},{id: "news-grand-opening-of-this-website",
           title: 'Grand opening of this website!',
           description: "",
-          section: "News",},{id: "news-top-10-of-most-viewed-papers",
+          section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
+          title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-10-28/";
+            },},{id: "news-top-10-of-most-viewed-papers",
           title: 'Top 10% of most-viewed papers',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/2025-04-16/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
