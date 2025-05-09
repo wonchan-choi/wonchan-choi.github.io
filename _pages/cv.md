@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: page
+title: "CV"
 permalink: /cv/
-title: CV
-nav: false
-nav_order: 5
-cv_pdf: Choi-CV.pdf # you can also use external links here
-description: 
-toc:
-  sidebar: left
+nav: true
+external: true
+redirect_to: /assets/pdf/Choi-CV.pdf
 ---
