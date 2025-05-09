@@ -1,69 +1,41 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: mDLAUG
+description: Mobile Digital Library Accessibility and Usability Guidelines
+img: assets/img/mdlaug.jpeg
 importance: 1
-category: work
+category: Ongoing
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h2>Project Description</h2>
+The Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG) is a set of accessibility and usability guidelines created for digital library (DL) developers to support blind and visually impaired (BVI) users who rely on screen readers to interact with DLs in the mobile environment. The mDLAUG was developed based on the types of help-seeking situations identified by user studies that investigated BVI users’ interactions with DLs using diverse types of mobile devices (i.e., iPhone, iPad, Android phone, and Android tablet). The mDLAUG will be further revised and enhanced based on feedback from key stakeholders of DLs, including users, scholars/experts, and DL developers. The mDLAUG is organized into 10 categories and 23 types of help-seeking situations BVI users encountered in their interactions with DLs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<b><a href="https://sites.uwm.edu/mdlaug/home/">Project Site</a></b>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<h2>Research Team</h2>
+<h3>Principal Investigators</h3>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- Iris Xie, PI, Professor, UWM-SOIS, hiris@uwm.edu
+- Wonchan Choi, Co-PI, Associate Professor, UWM-SOIS, wchoi@uwm.edu
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<h3>Research Assistants</h3>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- Shengang Wang, PhD student, UWM-SOIS
+- Hyun Seung Lee, PhD student, UWM-SOIS
+- Bo Hyun Hong, PhD student, UWM-SOIS
+- Ning Chiao Wang, PhD student, UWM-SOIS
+- Emmanuel Kwame Cudjoe, PhD student, UWM-SOIS
+- Ebenezer Acheampong, PhD student, UWM-SOIS
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+<h2>Funding Information</h2>
+
+- Program: Institute of Museum and Library Sercives, Program National Leadership Grants - Libraries 
+- Fiscal Year: 2022
+- Federal Funds $695,631
+
+
+
 
 {% raw %}
 
