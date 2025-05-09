@@ -3,25 +3,25 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "Peer-reviewed articles published in journals and conference proceedings",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -32,18 +32,18 @@ ninja.data = [{
           title: 'Grand opening of this website!',
           description: "",
           section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
-          title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T.',
+          title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-top-10-of-most-viewed-papers",
-          title: 'Top 10% of most-viewed papers',
+            },},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
+          title: 'Ranked among the top 10% of most-viewed papers in 2023',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-mdlaug",
+          title: 'mDLAUG',
+          description: "Mobile Digital Library Accessibility and Usability Guidelines",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
