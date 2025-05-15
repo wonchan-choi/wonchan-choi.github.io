@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -34,7 +34,7 @@ My research aims to better understand and improve how people seek, use, and crea
 
 My current projects focus on developing: 
 
-- **A theoretical framework for generative AI (GenAI) literacy  and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context
+- **A framework for generative AI (GenAI) literacy  and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context
 - **A psychometric scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots
 - **Design guidelines for mobile digital libraries to improve accessiblity and usability for blind and visually impaired users**.
 
