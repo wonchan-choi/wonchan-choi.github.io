@@ -2,10 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle: Associate Professor <br> <a href="https://uwm.edu/informationstudies/">School of Information Studies</a><br><a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>
 
 profile:
-  align: left
+  align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -26,9 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! 
-
-My name is Wonchan Choi, and I am an associate professor at the [School of Information Studies](https://uwm.edu/informationstudies/) at the [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). 
  
 My research aims to better understand and improve how people seek, use, and create information to accomplsih various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that beneift both academic research and real-world applications. 
 
