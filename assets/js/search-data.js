@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-grand-opening-of-this-website",
-          title: 'Grand opening of this website!',
-          description: "",
-          section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
+            },},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
           title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T',
           description: "",
           section: "News",handler: () => {
