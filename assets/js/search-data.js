@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-promotion-to-the-rank-of-associate-professor-with-tenure-the-new-rank-effective-august-19-2024-the-start-of-the-2024-2025-academic-year",
-          title: 'Promotion to the rank of Associate Professor with Tenure. The new rank effective...',
+            },},{id: "news-promoted-to-associate-professor-with-tenure-effective-august-19-2024",
+          title: 'Promoted to Associate Professor with tenure (effective August 19, 2024)',
           description: "",
           section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
           title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T',
