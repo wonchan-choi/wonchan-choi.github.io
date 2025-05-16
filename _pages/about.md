@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Associate Professor <br> <a href="https://uwm.edu/informationstudies/">School of Information Studies</a><br><a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>
+subtitle: <b>Associate Professor</b>, <a href="https://uwm.edu/informationstudies/">School of Information Studies</a>, <a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>
 
 profile:
   align: right
