@@ -28,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
+            },},{id: "news-promotion-to-the-rank-of-associate-professor-with-tenure-the-new-rank-effective-august-19-2024-the-start-of-the-2024-2025-academic-year",
+          title: 'Promotion to the rank of Associate Professor with Tenure. The new rank effective...',
+          description: "",
+          section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
           title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T',
           description: "",
           section: "News",handler: () => {
