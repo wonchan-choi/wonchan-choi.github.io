@@ -3,7 +3,7 @@ layout: none
 title: "CV"
 permalink: /cv/
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 <!DOCTYPE html>

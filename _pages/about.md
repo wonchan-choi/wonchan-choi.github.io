@@ -2,15 +2,15 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Associate Professor</b><br><b><a href="https://uwm.edu/informationstudies/">School of Information Studies</a></b>, <b><a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a></b>
+subtitle: <b>Associate Professor</b><br><b><a href="https://uwm.edu/informationstudies/">School of Information Studies</a></b><br><b><a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a></b>
 
 profile:
   align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a><br><br>
+    <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br></ hr>
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a><br><a href="/assets/pdf/Choi-CV.pdf">CV</a><br><br>
 
 projects: true
 
