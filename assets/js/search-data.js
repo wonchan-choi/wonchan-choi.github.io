@@ -45,7 +45,7 @@ ninja.data = [{
           title: 'mDLAUG',
           description: "Mobile Digital Library Accessibility and Usability Guidelines",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2022-mdlaug/";
+              window.location.href = "/projects/mdlaug/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
