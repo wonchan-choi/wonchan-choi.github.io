@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: project
 title: mDLAUG
 description: Mobile Digital Library Accessibility and Usability Guidelines
 img: assets/img/mdlaug.jpeg
 importance: 1
 category: Ongoing
-related_publications: true
+pubished: true
 ---
 
 <h2>Project Description</h2>
