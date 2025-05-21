@@ -6,7 +6,7 @@ description: Funded projects
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
