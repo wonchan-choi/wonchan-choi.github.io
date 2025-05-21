@@ -60,13 +60,13 @@ layout: default
     <!-- Current projects -->
     {% if page.projects %}
       <h2>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">
-          Current Projects <small style="font-size: 0.6em; font-weight: normal;">(see all)</small>
+        Current Projects 
+        <a href="{{ '/projects/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
         </a>
       </h2>
       {% include projects.liquid %}
     {% endif %}
-    
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
     <h2>
