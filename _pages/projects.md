@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Funded projects
+description: 
 nav: true
 nav_order: 3
-display_categories: [Ongoing, Past]
+display_categories: [In-Progress, Past]
 horizontal: false
 ---
 
