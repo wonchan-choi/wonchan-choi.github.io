@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "Peer-reviewed articles published in journals and conference proceedings Google Scholar",
+          description: "Peer-reviewed articles published in journals and conference proceedings",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
