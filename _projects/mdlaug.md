@@ -16,8 +16,8 @@ The Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG) is a 
 <h2>Research Team</h2>
 <h3>Principal Investigators</h3>
 
-- Iris Xie, PI, Professor, UWM-SOIS, hiris@uwm.edu
-- Wonchan Choi, Co-PI, Associate Professor, UWM-SOIS, wchoi@uwm.edu
+- Iris Xie, PI, Professor, UWM-SOIS
+- Wonchan Choi, Co-PI, Associate Professor, UWM-SOIS
 
 <h3>Research Assistants</h3>
 
