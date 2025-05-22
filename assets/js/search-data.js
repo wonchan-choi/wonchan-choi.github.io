@@ -48,9 +48,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
+          title: 'Rethinking Digital Literacy in the Age of Generative AI--College Students’ Use of ChatGPT...',
+          description: "Funded by UWM CCEP to explore college students&#39; use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/genai-literacy/";
             },},{id: "projects-mobile-digital-library-accessibility-and-usability-guidelines-mdlaug",
