@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rethinking Digital Literacy in the Age of Generative AI: College Students’ Use of ChatGPT for Educational Purposes
+title: Rethinking Digital Literacy in the Age of Generative AI--College Students’ Use of ChatGPT for Educational Purposes
 description: Funded by UWM CCEP to explore college students' use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)
 img: assets/img/UWM-logo.png
 importance: 1
