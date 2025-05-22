@@ -9,16 +9,8 @@ profile:
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Wonchan Choi, PhD <br>
-    Associate Professor <br>
-    School of Information Studies <br>
-    University of Wisconsin-Milwaukee <br>
-    Northwest Quadrant Building D, Room 2890<br>
-    2025 E Newport Ave<br>
-    Milwuakee, WI 53211, USA<br><hr>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br>
-    <i>He/Him/His</i><br><br>
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
