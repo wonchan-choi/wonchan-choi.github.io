@@ -48,9 +48,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/genai-literacy/";
             },},{id: "projects-mobile-digital-library-accessibility-and-usability-guidelines-mdlaug",
           title: 'Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG)',
-          description: "Funded by the Institute of Museum and Library Sercives (IMLS)  to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 ($695,631)",
+          description: "Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 ($695,631)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mdlaug/";
             },},{
