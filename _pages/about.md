@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Wonchan Choi, PhD <i>(He/Him/His)</i><br>    
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br><br>
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
