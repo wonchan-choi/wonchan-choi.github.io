@@ -2,17 +2,23 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Associate Professor</b><br><b><a href="https://uwm.edu/informationstudies/">School of Information Studies</a></b><br><b><a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a></b>
+subtitle: <b>Associate Professor @ <a href="https://uwm.edu/informationstudies/">UWM iSchool</a></b>
 
 profile:
   align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    Wonchan Choi, PhD <br>
+    Associate Professor <br>
+    School of Information Studies <br>
+    University of Wisconsin-Milwaukee <br>
+    Northwest Quadrant Building D, Room 2890<br>
+    2025 E Newport Ave<br>
+    Milwuakee, WI 53211, USA<br><hr>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br><br>
-
-projects: true
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a> <br>
+    <i>He/Him/His</i><br><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -24,7 +30,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
