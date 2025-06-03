@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rethinking Digital Literacy in the Age of Generative AI--College Students’ Use of ChatGPT for Educational Purposes
+title: Rethinking Digital Literacy in the Age of Generative AI - College Students’ Use of ChatGPT for Educational Purposes
 description: Funded by UWM CCEP to explore college students' use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)
 img: assets/img/UWM-logo.png
 importance: 1
@@ -13,8 +13,6 @@ ChatGPT and similar innovative artificial intelligence (AI)-based chatbots have 
 purposes.
 
 <h2>Research Team</h2>
-<h3>Principal Investigators</h3>
-
 - <b>Wonchan Choi</b>, PI, Associate Professor, University of Wisconsin-Milwaukee (UWM) iSchool
 - <b>Yan Zhang</b>, PI, Professor, University of Texas at Austin iSchool
 - <b>Besiki Stvilia</b>, PI, Professor, Florida State University iSchool
