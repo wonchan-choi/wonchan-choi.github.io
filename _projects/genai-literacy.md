@@ -13,7 +13,7 @@ ChatGPT and similar innovative artificial intelligence (AI)-based chatbots have 
 purposes.
 
 <h2>Research Team</h2>
-- <b>Wonchan Choi</b>, PI, Associate Professor, University of Wisconsin-Milwaukee (UWM) iSchool
+- <b>Wonchan Choi</b>, PI, Assistant Professor, University of Wisconsin-Milwaukee (UWM) iSchool
 - <b>Yan Zhang</b>, PI, Professor, University of Texas at Austin iSchool
 - <b>Besiki Stvilia</b>, PI, Professor, Florida State University iSchool
 
