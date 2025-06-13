@@ -53,6 +53,16 @@ ninja.data = [{
           description: "Funded by UWM CCEP to explore college students&#39; use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/genai-literacy/";
+            },},{id: "projects-developing-a-scale-for-credibility-assessment-on-interactive-web-platforms",
+          title: 'Developing a Scale for Credibility Assessment on Interactive Web Platforms',
+          description: "Funded by UWM to develop a psychometric scale to measure pereceived credibility of online information created by anonymous users and GenAI bots on the web. 2023 ($2,451)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ic-scale-dev/";
+            },},{id: "projects-web-credibility-assessments-in-the-context-of-social-q-amp-a-sites",
+          title: 'Web Credibility Assessments in the Context of Social Q&amp;amp;A Sites',
+          description: "Funded by UWM to explore cues and heuristics employed users in their credibility assessments of information on social Q&amp;A sites. 2021 ($4,887)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ic-socialqa/";
             },},{id: "projects-mobile-digital-library-accessibility-and-usability-guidelines-mdlaug",
           title: 'Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG)',
           description: "Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 ($695,631)",
