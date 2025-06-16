@@ -9,10 +9,8 @@
   color: "#009f36"
 
 "Journal":
-  text_color: "#ffffff"
-  background_color: "#045dd1"
+  color: "#81aee8"
 
 "ConfProc":
-  text_color: "#ffffff"
-  background_color: "#09ab34"
+  color: "#09ab34"
   
