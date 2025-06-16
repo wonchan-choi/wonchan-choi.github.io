@@ -17,16 +17,16 @@ The Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG) is a 
 <h2>Research Team</h2>
 
 - <b>Iris Xie</b>, PI, Professor, UWM SOIS
-- <b>Wonchan Choi</b>, Co-PI, Assistant Professor, UWM SOIS
+- <b>Wonchan Choi</b>, Co-PI, Associate Professor, UWM SOIS
 - <b>Shengang Wang</b>, RA, PhD Student, UWM SOIS
 - <b>Hyun Seung Lee</b>, RA, PhD Student, UWM SOIS
 - <b>Bo Hyun Hong</b>, RA, PhD Student, UWM SOIS
 - <b>Ning Chiao Wang</b>, RA, PhD Student, UWM SOIS
 - <b>Emmanuel Kwame Cudjoe</b>, RA, PhD Student, UWM SOIS
-- <b>Ebenezer Acheampong<b>, RA, PhD Student, UWM SOIS
+- <b>Ebenezer Acheampong</b>, RA, PhD Student, UWM SOIS
 
 <h2>Funding Information</h2>
 
-- Program: Institute of Museum and Library Sercives, National Leadership Grants - Libraries <a href="https://sites.uwm.edu/mdlaug/home/">(LG-252289-OLS-22)</a>
+- Program: Institute of Museum and Library Sercives, National Leadership Grants - Libraries <a href="https://www.imls.gov/grants/awarded/lg-252289-ols-22">(LG-252289-OLS-22)</a>
 - Period: 2022–2024 (with a 1-year extension)
 - Federal Funds $695,631
