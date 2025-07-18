@@ -48,6 +48,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-08/";
             },},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
           title: 'Rethinking Digital Literacy in the Age of Generative AI - College Students’ Use...',
           description: "Funded by UWM CCEP to explore college students&#39; use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)",
