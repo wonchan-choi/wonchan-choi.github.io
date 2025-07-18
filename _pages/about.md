@@ -30,11 +30,11 @@ latest_posts:
  
 My research aims to better understand and improve how people seek, use, and create information to accomplsih various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that beneift both academic research and real-world applications. 
 
-My current projects focus on the following.
+My current projects focus on developing:
 
-**Framework for generative AI (GenAI) literacy and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context. 
+**A framework for generative AI (GenAI) literacy and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context. 
 
-**Psychometric scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots.
+**A scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots.
 
-**Design guidelines for mobile digital libraries to improve accessiblity and usability for blind and visually impaired users**.
+**Design guidelines for mobile digital libraries** to improve accessiblity and usability for blind and visually impaired users.
 
