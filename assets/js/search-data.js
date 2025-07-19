@@ -51,12 +51,10 @@ ninja.data = [{
             },},{id: "news-accepted-for-a-penal-at-the-2025-asis-amp-amp-t-virtual-setellite-meeting-december-2025",
           title: 'Accepted for a penal at the 2025 ASIS&amp;amp;amp;T Virtual Setellite Meeting (December 2025)...',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-two-posters-accepted-for-the-2025-asis-amp-amp-t-annual-meeing-which-will-be-held-in-washington-d-c-november-2025-1-genai-competencies-in-higher-education-an-analysis-of-existing-literacy-frameworks-2-developing-an-information-credibility-scale-for-social-media-and-ai-generated-content-insights-from-expert-and-user-reviews",
+          title: 'Two posters accepted for the 2025 ASIS&amp;amp;amp;T Annual Meeing, which will be held...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-07-08/";
-            },},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
+          section: "News",},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
           title: 'Rethinking Digital Literacy in the Age of Generative AI - College Students’ Use...',
           description: "Funded by UWM CCEP to explore college students&#39; use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)",
           section: "Projects",handler: () => {
