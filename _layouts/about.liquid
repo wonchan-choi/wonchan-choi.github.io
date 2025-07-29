@@ -42,33 +42,28 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-    <div class="home-section home-news">
-      <h2>
-        News
-        <a href="{{ '/news/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
-      </h2>
-        {% include news.liquid limit=true %}
-      {% endif %}
+    <h2>
+      News
+      <a href="{{ '/news/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
+    </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
 
-      <!-- Latest posts -->
-      {% if page.latest_posts and page.latest_posts.enabled %}
-        <h2>
-          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
-        </h2>
-    </div>
+    <!-- Latest posts -->
+    {% if page.latest_posts and page.latest_posts.enabled %}
+      <h2>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
+      </h2>
       {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-    <div class="home-section home-publications">
-
-      <h2>
-        Selected Publications
-        <a href="{{ '/publications/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
-      </h2>
-        {% include selected_papers.liquid %}
-    </div>
+    <h2>
+      Selected Publications
+      <a href="{{ '/publications/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
+    </h2>
+      {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->

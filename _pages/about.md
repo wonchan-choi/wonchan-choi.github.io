@@ -11,12 +11,9 @@ profile:
   more_info: >
     Wonchan Choi, PhD <br>
     Associate Professor <br>
-    iSchool @ UWM <br>
-    <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a> | 414-251-5753 <br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
-    <i>he/him/his</i> 
-
-<hr>
+    UWM SOIS (iSchool) <br>
+    wchoi@uwm.edu | 414-251-5753 <br>
+    <i>he/him/his</i>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor at the [School of Information Studies](https://uwm.edu/informationstudies/), [University of Wisconsin-Milwaukee](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
+I am an associate professor at the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/), [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
 My current projects focus on developing:
 
