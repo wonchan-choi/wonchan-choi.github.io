@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Associate Professor @ <a href="https://uwm.edu/informationstudies/">UWM iSchool</a></b>
 
 profile:
-  align: right
+  align: left
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -18,7 +18,7 @@ projects: true
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -28,13 +28,13 @@ latest_posts:
 ---
 
  
-My research aims to better understand and improve how people seek, use, and create information to accomplsih various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that beneift both academic research and real-world applications. 
+Welcome to my website!
+
+I am an associate professor at the "School of Information Studies (iSchool)"[https://uwm.edu/informationstudies/], "University of Wisconsin-Milwaukee (UWM)"[https://uwm.edu/]. My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
 My current projects focus on developing:
 
-**A framework for generative AI (GenAI) literacy and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethcially with GenAI tools in the higher education context. 
-
-**A scale to assess the credibility of online information** in increasingly complex digital environments, where content is often prodcued by anonymous users and AI bots.
-
-**Design guidelines for mobile digital libraries** to improve accessiblity and usability for blind and visually impaired users.
+* **A framework for generative AI (GenAI) literacy and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethically with GenAI tools in higher education.
+* **A scale to assess the credibility of online information** in increasingly complex digital environments, where content is often produced by anonymous users and AI bots.
+* **Design guidelines for mobile digital libraries** to improve accessibility and usability for blind and visually impaired users.
 
