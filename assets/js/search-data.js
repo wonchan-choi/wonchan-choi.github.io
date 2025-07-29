@@ -43,10 +43,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study",
-          title: 'College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study...',
+            },},{id: "news-",
+          title: '',
           description: "",
-          section: "News",},{id: "news-",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-28/";
+            },},{id: "news-",
           title: '',
           description: "",
           section: "News",handler: () => {
