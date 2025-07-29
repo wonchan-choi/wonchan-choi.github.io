@@ -47,6 +47,11 @@ ninja.data = [{
           title: '',
           description: "",
           section: "News",handler: () => {
+              window.location.href = "/news/2024-12-28/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
               window.location.href = "/news/2025-03-17/";
             },},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
           title: 'Ranked among the top 10% of most-viewed papers in 2023',
