@@ -10,9 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Wonchan Choi, PhD <br>
-    Associate Professor, iSchool @ UWM <br>
+    Associate Professor <br>
+    iSchool @ UWM <br>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a> | 414-251-5753 <br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969">ORCiD</a>
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
+    < 
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
