@@ -13,7 +13,12 @@ profile:
     Associate Professor <br>
     UWM SOIS (iSchool) <br>
     wchoi@uwm.edu | 414-251-5753 <br>
-    <i>he/him/his</i>
+    <i>he/him/his</i><br>
+
+
+<hr>
+
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
