@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "Home",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -43,12 +43,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study",
+          title: 'College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024-12-28/";
-            },},{id: "news-",
+          section: "News",},{id: "news-",
           title: '',
           description: "",
           section: "News",handler: () => {
