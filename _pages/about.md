@@ -14,7 +14,7 @@ profile:
     iSchool @ UWM <br>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a> | 414-251-5753 <br>
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
-    < 
+    <i>he/him/his</i> 
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
