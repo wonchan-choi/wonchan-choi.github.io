@@ -81,7 +81,7 @@ ninja.data = [{
               window.location.href = "/projects/ic-socialqa/";
             },},{id: "projects-mobile-digital-library-accessibility-and-usability-guidelines-mdlaug",
           title: 'Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG)',
-          description: "Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 ($695,631)",
+          description: "Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 (extended to 2025) ($695,631)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mdlaug/";
             },},{
