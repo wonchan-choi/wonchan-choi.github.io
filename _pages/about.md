@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Associate Professor @ <a href="https://uwm.edu/informationstudies/">UWM iSchool</a></b>
 
 profile:
-  align: left
+  align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -30,7 +30,7 @@ latest_posts:
  
 Welcome to my website!
 
-I am an associate professor at the "School of Information Studies (iSchool)"[https://uwm.edu/informationstudies/], "University of Wisconsin-Milwaukee (UWM)"[https://uwm.edu/]. My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
+I am an associate professor at the [School of Information Studies (iSchool)](https://uwm.edu/informationstudies/), [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
 My current projects focus on developing:
 
