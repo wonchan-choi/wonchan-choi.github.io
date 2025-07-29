@@ -15,7 +15,7 @@ profile:
     NWQD, Room 2890 <br>
     2025 E Newport Ave, Milwaukee, WI 53211, USA <br>
     wchoi@uwm.edu | 414-251-5753 <br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a><br>
+    <a href="https://wonchan-choi.github.io/assets/pdf/Choi-CV.pdf" target="_blank" rel="noopener noreferrer">CV</a> | <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a><br>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
