@@ -43,8 +43,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study",
-          title: 'College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study...',
+            },},{id: "news-our-paper-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-to-jasist",
+          title: 'Our paper “College students’ credibility assessments of GenAI-generated information for academic tasks: An...',
           description: "",
           section: "News",},{id: "news-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations",
           title: 'Investigating the interactions between individuals with disabilities and information retrieval systems: A review...',
