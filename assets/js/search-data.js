@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -46,12 +46,10 @@ ninja.data = [{
             },},{id: "news-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study",
           title: 'College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study...',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations",
+          title: 'Investigating the interactions between individuals with disabilities and information retrieval systems: A review...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-03-17/";
-            },},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
+          section: "News",},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
           title: 'Ranked among the top 10% of most-viewed papers in 2023',
           description: "",
           section: "News",handler: () => {
