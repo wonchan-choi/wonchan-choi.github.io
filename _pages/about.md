@@ -16,6 +16,7 @@ profile:
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br>
     <i>he/him/his</i> 
 
+<hr>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
