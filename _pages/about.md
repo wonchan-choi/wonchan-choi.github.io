@@ -9,14 +9,13 @@ profile:
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Wonchan Choi, PhD <i>(he/him)</i><br><br>
-    Associate Professor <br>
-    UWM SOIS (iSchool) <br>
-    NWQD, Room 2890 <br>
-    2025 E Newport Ave, Milwaukee, WI 53211, USA <br>
-    wchoi@uwm.edu | 414-251-5753 <br>
-    <a href="https://wonchan-choi.github.io/assets/pdf/Choi-CV.pdf" target="_blank" rel="noopener noreferrer">CV</a> | <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a><br>
-    
+    <b>Contact Information</b><br>
+    Wonchan Choi, PhD <i>(he/him)</i><br>
+    Associate Professor @ UWM SOIS (iSchool)<br>
+    <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
+    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a><br>
+    <a href="https://orcid.org/0000-0001-6301-4969" target="_blank" rel="noopener noreferrer">ORCiD</a><br>
+    <hr>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,7 +32,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor at the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/), [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
+I am an associate professor in the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/) at [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
 My current projects focus on developing:
 
