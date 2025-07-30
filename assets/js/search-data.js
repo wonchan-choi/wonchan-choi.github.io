@@ -43,11 +43,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-our-paper-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-to-jasist",
-          title: 'Our paper “College students’ credibility assessments of GenAI-generated information for academic tasks: An...',
+            },},{id: "news-our-research-article-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-for-publication-in-jasist-https-asistdl-onlinelibrary-wiley-com-doi-full-10-1002-asi-24978-pre-print-https-wonchan-choi-github-io-assets-pdf-2025-jasist-pdf",
+          title: 'Our research article, “College students’ credibility assessments of GenAI-generated information for academic tasks:...',
           description: "",
-          section: "News",},{id: "news-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations",
-          title: 'Investigating the interactions between individuals with disabilities and information retrieval systems: A review...',
+          section: "News",},{id: "news-our-arist-chapter-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations-has-been-accepted-for-publication-in-jasist-https-asistdl-onlinelibrary-wiley-com-doi-full-10-1002-asi-24997",
+          title: 'Our ARIST chapter, “Investigating the interactions between individuals with disabilities and information retrieval...',
           description: "",
           section: "News",},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
           title: 'Ranked among the top 10% of most-viewed papers in 2023',
