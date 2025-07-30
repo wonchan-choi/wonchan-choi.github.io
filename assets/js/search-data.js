@@ -44,13 +44,13 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
             },},{id: "news-our-research-article-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-for-publication-in-jasist",
-          title: 'Our research article, “College students’ credibility assessments of GenAI-generated information for academic tasks:...',
+          title: 'Our research article, “College Students’ Credibility Assessments of GenAI-generated Information for Academic Tasks:...',
           description: "",
           section: "News",},{id: "news-our-arist-chapter-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations-has-been-accepted-for-publication-in-jasist",
-          title: 'Our ARIST chapter, “Investigating the interactions between individuals with disabilities and information retrieval...',
+          title: 'Our ARIST chapter, “Investigating the Interactions between Individuals with Disabilities and Information Retrieval...',
           description: "",
-          section: "News",},{id: "news-ranked-among-the-top-10-of-most-viewed-papers-in-2023",
-          title: 'Ranked among the top 10% of most-viewed papers in 2023',
+          section: "News",},{id: "news-our-paper-exploring-applications-and-user-experience-with-generative-ai-tools-a-content-analysis-of-reddit-posts-on-chatgpt-quot-2023-proceedings-of-asist-ranked-among-the-top-10-of-most-viewed-papers",
+          title: 'Our paper, “Exploring Applications and User Experience with Generative AI Tools--A Content Analysis...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
