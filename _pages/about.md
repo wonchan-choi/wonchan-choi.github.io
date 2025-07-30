@@ -9,13 +9,14 @@ profile:
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <b>Contact Information</b><br>
-    Wonchan Choi, PhD <i>(he/him)</i><br>
-    Associate Professor @ UWM SOIS (iSchool)<br>
+    <span style="font-size: 14px; font-weight: bold;">Contact Information</span><br>
+    Wonchan Choi, PhD (<i>he/him</i>)<br>
+    Associate Professor<br>
+    <a href="https://uwm.edu/informationstudies/directory/choi-wonchan/" target="_blank" rel="noopener noreferrer">UWM SOIS Profile</a><br>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
+    <a href="https://maps.app.goo.gl/NeKeHpgpkU153rwZ8" target="_blank" rel="noopener noreferrer">NWQD-2890</a><br>
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a><br>
     <a href="https://orcid.org/0000-0001-6301-4969" target="_blank" rel="noopener noreferrer">ORCiD</a><br>
-    <hr>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
