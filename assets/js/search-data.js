@@ -49,8 +49,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-arist-chapter-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations-has-been-accepted-for-publication-in-jasist",
           title: 'Our ARIST chapter, “Investigating the Interactions between Individuals with Disabilities and Information Retrieval...',
           description: "",
-          section: "News",},{id: "news-our-paper-exploring-applications-and-user-experience-with-generative-ai-tools-a-content-analysis-of-reddit-posts-on-chatgpt-quot-ranked-among-the-top-10-of-most-viewed-papers-in-2023-proceedings-of-asist",
-          title: 'Our paper, “Exploring Applications and User Experience with Generative AI Tools--A Content Analysis...',
+          section: "News",},{id: "news-our-short-paper-ranked-among-the-top-10-of-most-viewed-papers-in-2023-proceedings-of-asis-amp-t",
+          title: 'Our short paper ranked among the top 10% of most-viewed papers in (2023...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
