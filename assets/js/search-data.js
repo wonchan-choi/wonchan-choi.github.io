@@ -50,7 +50,7 @@ ninja.data = [{
           title: 'Our ARIST chapter, “Investigating the Interactions between Individuals with Disabilities and Information Retrieval...',
           description: "",
           section: "News",},{id: "news-our-short-paper-ranked-among-the-top-10-of-most-viewed-papers-in-2023-proceedings-of-asis-amp-t",
-          title: 'Our short paper ranked among the top 10% of most-viewed papers in (2023...',
+          title: 'Our short paper ranked among the top 10% of most-viewed papers in 2023...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
