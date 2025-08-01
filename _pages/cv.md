@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 nav: true
 nav_order: 5
