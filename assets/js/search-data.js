@@ -54,8 +54,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
-            },},{id: "news-accepted-for-a-penal-at-the-2025-asis-amp-amp-t-virtual-setellite-meeting-december-2025",
-          title: 'Accepted for a penal at the 2025 ASIS&amp;amp;amp;T Virtual Setellite Meeting (December 2025)...',
+            },},{id: "news-accepted-for-a-penal-at-the-2025-asis-amp-amp-t-virtual-satellite-meeting-december-2025",
+          title: 'Accepted for a penal at the 2025 ASIS&amp;amp;amp;T Virtual Satellite Meeting (December 2025)...',
           description: "",
           section: "News",},{id: "news-two-posters-accepted-for-the-2025-asis-amp-amp-t-annual-meeing-which-will-be-held-in-washington-d-c-november-2025",
           title: 'Two posters accepted for the 2025 ASIS&amp;amp;amp;T Annual Meeing, which will be held...',
