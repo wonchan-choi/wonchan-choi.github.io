@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor in the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/) at [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
+I am an associate professor in the [School of Information Studies (SOIS)](https://uwm.edu/informationstudies/) at the [University of Wisconsin-Milwaukee (UWM)](https://uwm.edu/). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
 My [current projects](https://wonchan-choi.github.io/projects/) focus on developing:
 
