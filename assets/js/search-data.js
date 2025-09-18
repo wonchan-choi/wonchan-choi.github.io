@@ -43,7 +43,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
-            },},{id: "news-our-research-article-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-for-publication-in-jasist",
+            },},{id: "news-our-research-article-college-students-credibility-assessments-of-genai-generated-information-for-academic-tasks-an-interview-study-has-been-accepted-for-publication-in-jasist-preprint",
           title: 'Our research article, “College Students’ Credibility Assessments of GenAI-generated Information for Academic Tasks:...',
           description: "",
           section: "News",},{id: "news-our-arist-chapter-investigating-the-interactions-between-individuals-with-disabilities-and-information-retrieval-systems-a-review-of-help-seeking-situations-search-tactics-and-design-recommendations-has-been-accepted-for-publication-in-jasist",
@@ -59,6 +59,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-posters-accepted-for-the-2025-asis-amp-amp-t-annual-meeing-which-will-be-held-in-washington-d-c-november-2025",
           title: 'Two posters accepted for the 2025 ASIS&amp;amp;amp;T Annual Meeing, which will be held...',
+          description: "",
+          section: "News",},{id: "news-our-research-article-perceived-importance-and-predictive-power-key-criteria-for-judging-information-credibility-on-social-q-amp-amp-a-platforms-has-been-accepted-for-publication-in-the-electronic-library-preprint",
+          title: 'Our research article, “Perceived Importance and Predictive Power: Key Criteria for Judging Information...',
           description: "",
           section: "News",},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
           title: 'Rethinking Digital Literacy in the Age of Generative AI - College Students’ Use...',
