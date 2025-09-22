@@ -36,10 +36,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-promoted-to-associate-professor-with-tenure",
-          title: 'Promoted to Associate Professor with tenure',
+          title: 'Promoted to Associate Professor with tenure.',
           description: "",
           section: "News",},{id: "news-recognized-as-a-distinguished-member-of-asis-amp-t",
-          title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T',
+          title: 'Recognized as a Distinguished Member of ASIS&amp;amp;T.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-28/";
@@ -54,11 +54,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-16/";
-            },},{id: "news-accepted-for-a-penal-at-the-2025-asis-amp-amp-t-virtual-satellite-meeting-december-2025",
-          title: 'Accepted for a penal at the 2025 ASIS&amp;amp;amp;T Virtual Satellite Meeting (December 2025)...',
+            },},{id: "news-our-panel-researching-health-information-behaviors-landscape-ai-s-role-and-its-impact-accepted-at-the-2025-asis-amp-amp-t-virtual-panels",
+          title: 'Our panel, “Researching Health Information Behaviors: Landscape, AI’s Role and Its Impact,” accepted...',
           description: "",
-          section: "News",},{id: "news-two-posters-accepted-for-the-2025-asis-amp-amp-t-annual-meeing-which-will-be-held-in-washington-d-c-november-2025",
-          title: 'Two posters accepted for the 2025 ASIS&amp;amp;amp;T Annual Meeing, which will be held...',
+          section: "News",},{id: "news-two-posters-accepted-for-the-2025-asis-amp-amp-t-in-person-poster-session-in-washington-d-c",
+          title: 'Two posters accepted for the 2025 ASIS&amp;amp;amp;T in-person poster session in Washington, D.C....',
           description: "",
           section: "News",},{id: "news-our-research-article-perceived-importance-and-predictive-power-key-criteria-for-judging-information-credibility-on-social-q-amp-amp-a-platforms-has-been-accepted-for-publication-in-the-electronic-library",
           title: 'Our research article, “Perceived Importance and Predictive Power: Key Criteria for Judging Information...',
