@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: wonchan-pic-wide.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
