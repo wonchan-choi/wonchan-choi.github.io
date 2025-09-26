@@ -44,7 +44,6 @@ layout: default
     {% if page.announcements and page.announcements.enabled %}
     <h2>
       News
-      <a href="{{ '/news/' | relative_url }}" style="font-size: 0.6em; font-weight: normal; color: inherit;">(see all)</a>
     </h2>
       {% include news.liquid limit=true %}
     {% endif %}
