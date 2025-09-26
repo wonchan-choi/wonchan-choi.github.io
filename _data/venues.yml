@@ -1,11 +1,25 @@
-"Journal":
+"TEL":
+  url: https://www.emeraldgrouppublishing.com/journal/el
   color: "#1165D4"
 
-"ConfProc":
-  color: "#2596be"
+"JASIST":
+  url: https://asistdl.onlinelibrary.wiley.com/journal/23301643
+  color: "#1165D4"
 
-"Best Paper Nominated":
-  color: "#ff6699"
+"IPM":
+  url: https://www.sciencedirect.com/journal/information-processing-and-management
+  color: "#1165D4"
+
+"LISR":
+  url: https://www.sciencedirect.com/journal/library-and-information-science-research
+  color: "#1165D4"
+
+"Image":
+  url: https://www.mdpi.com/journal/jimaging
+  color: "#1165D4"
+
+"ASIST":
+  color: "#32c96f"
 
 "Dissertation":
   color: "#ff6699"
