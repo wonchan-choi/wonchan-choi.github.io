@@ -14,11 +14,73 @@
   url: https://www.sciencedirect.com/journal/library-and-information-science-research
   color: "#1165D4"
 
+"AS":
+  url: https://www.mdpi.com/journal/applsci
+  color: "#1165D4"
+
+"ACR":
+  url: https://acr.comm.or.kr/
+  color: "#1165D4"
+
 "Image":
   url: https://www.mdpi.com/journal/jimaging
   color: "#1165D4"
 
+"GERONTECH":
+  url: https://journal.gerontechnology.org/Aim.aspx
+  color: "#1165D4"
+
+"JAG":
+  url: https://journals.sagepub.com/home/jag
+  color: "#1165D4"
+
+"IJMI":
+  url: https://www.sciencedirect.com/journal/international-journal-of-medical-informatics
+  color: "#1165D4"
+
+"JAMIA":
+  url: https://academic.oup.com/jamia
+  color: "#1165D4"
+
+"HIJ":
+  url: https://journals.sagepub.com/home/jhi
+  color: "#1165D4"
+
+"MJLIS":
+  url: https://mjlis.um.edu.my/
+  color: "#1165D4"
+
+"JKSLIS":
+  url: https://journal.kci.go.kr/kslis
+  color: "#1165D4"
+
+"KOSIM":
+  url: https://journal.kci.go.kr/kosim
+  color: "#1165D4"
+
+"eGEMs":
+  url: https://academyhealth.org/publications/2017-04/egems-journal-electronic-health-data-and-methods
+  color: "#1165D4"
+
+
+"iConf":
+  url: https://www.ischools.org/iconference
+  color: "#32c96f"
+
 "ASIST":
+  url: https://www.asist.org/meetings-events/am/
+  color: "#32c96f"
+
+"AMCIS":
+  url: https://aisnet.org/page/AMCISPage
+  color: "#32c96f"
+
+"HICSS":
+  url: https://hicss.hawaii.edu/
+  color: "#32c96f"
+
+"CHI":
+  url: https://dl.acm.org/conference/chi
   color: "#32c96f"
 
 "Dissertation":
