@@ -63,7 +63,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-research-article-perceived-importance-and-predictive-power-key-criteria-for-judging-information-credibility-on-social-q-amp-amp-a-platforms-has-been-accepted-for-publication-in-the-electronic-library",
           title: 'Our research article, “Perceived Importance and Predictive Power: Key Criteria for Judging Information...',
           description: "",
-          section: "News",},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
+          section: "News",},{id: "news-received-the-best-published-sig-ai-paper",
+          title: 'Received the Best Published SIG AI Paper.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-14/";
+            },},{id: "projects-rethinking-digital-literacy-in-the-age-of-generative-ai-college-students-use-of-chatgpt-for-educational-purposes",
           title: 'Rethinking Digital Literacy in the Age of Generative AI - College Students’ Use...',
           description: "Funded by UWM CCEP to explore college students&#39; use of generative artificial intelligence tools for academic tasks. 2023–2024 ($6,000)",
           section: "Projects",handler: () => {
