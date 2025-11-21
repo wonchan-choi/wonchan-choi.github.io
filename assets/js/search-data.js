@@ -63,8 +63,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-research-article-perceived-importance-and-predictive-power-key-criteria-for-judging-information-credibility-on-social-q-amp-amp-a-platforms-has-been-accepted-for-publication-in-the-electronic-library",
           title: 'Our research article, “Perceived Importance and Predictive Power: Key Criteria for Judging Information...',
           description: "",
-          section: "News",},{id: "news-received-the-best-published-sig-ai-paper",
-          title: 'Received the Best Published SIG AI Paper.',
+          section: "News",},{id: "news-our-jasist-paper-on-college-students-39-credibility-assessments-of-genai-generated-information-for-academic-tasks-has-been-chosen-as-the-2024-sig-ai-best-published-paper",
+          title: 'Our JASIST paper on college students&amp;#39; credibility assessments of GenAI-generated information for academic...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-11-14/";
