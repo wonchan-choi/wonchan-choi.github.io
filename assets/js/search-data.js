@@ -81,9 +81,14 @@ ninja.data = [{
           description: "Funded by UWM to develop a psychometric scale to measure pereceived credibility of online information created by anonymous users and GenAI bots on the web. 2023 ($2,451)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ic-scale-dev/";
+            },},{id: "projects-developing-a-scale-for-credibility-assessment-on-interactive-web-platforms",
+          title: 'Developing a Scale for Credibility Assessment on Interactive Web Platforms',
+          description: "Funded by UWM to  validate a scale for assessing the credibility of information produced by anonymous users on social media and by generative AI tools (e.g., ChatGPT). 2026 ($2,000)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ic-scale-validation/";
             },},{id: "projects-web-credibility-assessments-in-the-context-of-social-q-amp-a-sites",
           title: 'Web Credibility Assessments in the Context of Social Q&amp;amp;A Sites',
-          description: "Funded by UWM to explore cues and heuristics employed users in their credibility assessments of information on social Q&amp;A sites. 2021 ($4,887)",
+          description: "Funded by UWM to explore cues and heuristics employed users in their credibility assessments of information on social Q&amp;A sites. 2021. ($4,887)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ic-socialqa/";
             },},{id: "projects-mobile-digital-library-accessibility-and-usability-guidelines-mdlaug",
