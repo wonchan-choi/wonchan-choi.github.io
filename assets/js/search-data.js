@@ -96,30 +96,4 @@ ninja.data = [{
           description: "Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 (extended to 2025) ($695,631)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mdlaug/";
-            },},{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+            },},];
