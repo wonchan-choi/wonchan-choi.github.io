@@ -81,8 +81,8 @@ ninja.data = [{
           description: "Funded by UWM to develop a psychometric scale to measure pereceived credibility of online information created by anonymous users and GenAI bots on the web. 2023 ($2,451)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ic-scale-dev/";
-            },},{id: "projects-developing-a-scale-for-credibility-assessment-on-interactive-web-platforms",
-          title: 'Developing a Scale for Credibility Assessment on Interactive Web Platforms',
+            },},{id: "projects-validating-an-information-credibility-scale-social-media-and-ai-generated-content",
+          title: 'Validating an information credibility scale social media and AI-generated content',
           description: "Funded by UWM to  validate a scale for assessing the credibility of information produced by anonymous users on social media and by generative AI tools (e.g., ChatGPT). 2026 ($2,000)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ic-scale-validation/";
