@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Developing a Scale for Credibility Assessment on Interactive Web Platforms
+title: Validating an information credibility scale social media and AI-generated content
 description: Funded by UWM to  validate a scale for assessing the credibility of information produced by anonymous users on social media and by generative AI tools (e.g., ChatGPT). 2026 ($2,000)
 img: assets/img/UWM-logo.png
 importance: 2
