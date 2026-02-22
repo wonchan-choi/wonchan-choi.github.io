@@ -15,7 +15,7 @@ profile:
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969" target="_blank" rel="noopener noreferrer">ORCiD</a><br>
     <hr><br>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 projects: true
 
