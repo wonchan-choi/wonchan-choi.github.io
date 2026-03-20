@@ -5,14 +5,14 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: wonchan-pic-wide.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <b>Wonchan Choi, PhD</b> (<i>he/him</i>)<br>
     Associate Professor @ UWM SOIS<br>
     <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969" target="_blank" rel="noopener noreferrer">ORCiD</a><br>
+    <a href="https://scholar.google.com/citations?user=BDmHJUUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://orcid.org/0000-0001-6301-4969" target="_blank" rel="noopener noreferrer">ORCiD</a><br>
     <hr><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
