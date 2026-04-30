@@ -5,9 +5,9 @@ permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: wonchan-pic-wide.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false
   more_info: >
     <b>Wonchan Choi, PhD</b> (<i>he/him</i>)<br>
     Associate Professor @ UWM SOIS<br>
