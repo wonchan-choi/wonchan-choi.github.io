@@ -7,7 +7,9 @@
 
 
 
-
+"IR iConf":
+  url: https://publicera.kb.se/ir/issue/view/5744
+  color: "#1165D4"
 
 "TEL":
   url: https://www.emeraldgrouppublishing.com/journal/el
@@ -78,7 +80,7 @@
   url: https://www.ischools.org/iconference
   color: "#32c96f"
 
-"ASIST":
+"ASIST ConfPrc":
   url: https://www.asist.org/meetings-events/am/
   color: "#32c96f"
 
