@@ -7,8 +7,8 @@ first_name: Wonchan
 middle_name:
 last_name: Choi
 contact_note: > 
-description: > Associate Professor | iSchool @ UWM | Research interests: information credibility, GenAI literacy, user-centered design of IR systems 
-footer_text: > Footer text (e.g., copyright or contact info)
+description: "Associate Professor | iSchool @ UWM | Research interests: information credibility, GenAI literacy, user-centered design of IR systems" 
+footer_text: > 
   
 keywords: 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
