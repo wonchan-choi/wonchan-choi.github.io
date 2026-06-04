@@ -2,99 +2,99 @@
   color: "#32c96f"
 
 "Journal":
-  color: "#1165D4"
+  color: "#00467F"
 
 
 
 
 "IR iConf":
   url: https://publicera.kb.se/ir/issue/view/5744
-  color: "#1165D4"
+  color: "#124633"
 
 "TEL":
   url: https://www.emeraldgrouppublishing.com/journal/el
-  color: "#1165D4"
+  color: "#00467F"
 
 "JASIST":
   url: https://asistdl.onlinelibrary.wiley.com/journal/23301643
-  color: "#1165D4"
+  color: "#00467F"
 
 "IPM":
   url: https://www.sciencedirect.com/journal/information-processing-and-management
-  color: "#1165D4"
+  color: "#00467F"
 
 "LISR":
   url: https://www.sciencedirect.com/journal/library-and-information-science-research
-  color: "#1165D4"
+  color: "#00467F"
 
 "AS":
   url: https://www.mdpi.com/journal/applsci
-  color: "#1165D4"
+  color: "#00467F"
 
 "ACR":
   url: https://acr.comm.or.kr/
-  color: "#1165D4"
+  color: "#00467F"
 
 "Image":
   url: https://www.mdpi.com/journal/jimaging
-  color: "#1165D4"
+  color: "#00467F"
 
 "GERONTECH":
   url: https://journal.gerontechnology.org/Aim.aspx
-  color: "#1165D4"
+  color: "#00467F"
 
 "JAG":
   url: https://journals.sagepub.com/home/jag
-  color: "#1165D4"
+  color: "#00467F"
 
 "IJMI":
   url: https://www.sciencedirect.com/journal/international-journal-of-medical-informatics
-  color: "#1165D4"
+  color: "#00467F"
 
 "JAMIA":
   url: https://academic.oup.com/jamia
-  color: "#1165D4"
+  color: "#00467F"
 
 "HIJ":
   url: https://journals.sagepub.com/home/jhi
-  color: "#1165D4"
+  color: "#00467F"
 
 "MJLIS":
   url: https://mjlis.um.edu.my/
-  color: "#1165D4"
+  color: "#00467F"
 
 "JKSLIS":
   url: https://journal.kci.go.kr/kslis
-  color: "#1165D4"
+  color: "#00467F"
 
 "KOSIM":
   url: https://journal.kci.go.kr/kosim
-  color: "#1165D4"
+  color: "#00467F"
 
 "eGEMs":
   url: https://academyhealth.org/publications/2017-04/egems-journal-electronic-health-data-and-methods
-  color: "#1165D4"
+  color: "#00467F"
 
 
-"iConf":
+"iConf Proc":
   url: https://www.ischools.org/iconference
-  color: "#32c96f"
+  color: "#124633"
 
 "ASIST ConfPrc":
   url: https://www.asist.org/meetings-events/am/
-  color: "#32c96f"
+  color: "#124633"
 
 "AMCIS":
   url: https://aisnet.org/page/AMCISPage
-  color: "#32c96f"
+  color: "#124633"
 
 "HICSS":
   url: https://hicss.hawaii.edu/
-  color: "#32c96f"
+  color: "#124633"
 
 "CHI":
   url: https://dl.acm.org/conference/chi
-  color: "#32c96f"
+  color: "#124633"
 
 "Dissertation":
   color: "#ff6699"

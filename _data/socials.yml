@@ -30,7 +30,7 @@ orcid_id: "0000-0001-6301-4969"
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-scholar_userid: "p5_1GbgAAAAJ" # your Google Scholar ID
+scholar_userid: "T55JJOcAAAAJ" # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -41,7 +41,7 @@ scholar_userid: "p5_1GbgAAAAJ" # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: "https://uwm.edu/informationstudies/directory/choi-wonchan/"
+# work_url: ""
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
