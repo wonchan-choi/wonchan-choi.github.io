@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: wonchan-pic-wide.jpg
   image_circular: false
   more_info: >
