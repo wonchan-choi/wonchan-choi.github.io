@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an associate professor in the [iSchool](https://lis.skku.edu/eng_lis/index.do) at [Sungkyunkwan University](https://eng.skku.edu/eng/index.do). My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My [current projects](https://wonchan-choi.github.io/projects/) focus on:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* **A framework for generative AI (GenAI) literacy and an associated toolkit** to support the creation of educational materials and programs that help college students engage effectively and ethically with GenAI tools in higher education.
+* **A scale to assess the credibility of online information** in increasingly complex digital environments, where content is often produced by anonymous users and AI bots.
+* **Design guidelines for mobile digital libraries** to improve accessibility and usability for blind and visually impaired users.
