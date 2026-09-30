@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG)
-description: Funded by IMLS to develop guidelines for building digitial libraries for blind and visually impaired users. 2022–2024 (extended to 2025) ($695,631)
+description: Funded by IMLS to develop guidelines for building digital libraries for blind and visually impaired users. 2022–2024 (extended to 2025) ($695,631)
 img: assets/img/IMLS-Logo.jpg
 importance: 1
 category: In-Progress
-pubished: true
+published: true
 ---
 
 <h2>Project Description</h2>
@@ -27,6 +27,6 @@ The Mobile Digital Library Accessibility and Usability Guidelines (mDLAUG) is a 
 
 <h2>Funding Information</h2>
 
-- Program: Institute of Museum and Library Sercives, National Leadership Grants - Libraries <a href="https://www.imls.gov/grants/awarded/lg-252289-ols-22">(LG-252289-OLS-22)</a>
+- Program: Institute of Museum and Library Services, National Leadership Grants - Libraries <a href="https://www.imls.gov/grants/awarded/lg-252289-ols-22">(LG-252289-OLS-22)</a>
 - Period: 2022–2024 (with a 1-year extension)
 - Federal Funds $695,631

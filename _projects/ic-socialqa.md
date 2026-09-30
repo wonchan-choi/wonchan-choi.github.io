@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Web Credibility Assessments in the Context of Social Q&A Sites
-description: Funded by UWM to explore cues and heuristics employed users in their credibility assessments of information on social Q&A sites. 2021. ($4,887)
+description: Funded by UWM to explore cues and heuristics employed by users in their credibility assessments of information on social Q&A sites. 2021. ($4,887)
 img: assets/img/UWM-logo.png
 importance: 3
 category: Past
-pubished: true
+published: true
 ---
 
 <h2>Project Description</h2>

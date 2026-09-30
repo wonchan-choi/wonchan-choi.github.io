@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Developing a Scale for Credibility Assessment on Interactive Web Platforms
-description: Funded by UWM to develop a psychometric scale to measure pereceived credibility of online information created by anonymous users and GenAI bots on the web. 2023 ($2,451)
+description: Funded by UWM to develop a psychometric scale to measure perceived credibility of online information created by anonymous users and GenAI bots on the web. 2023 ($2,451)
 img: assets/img/UWM-logo.png
 importance: 2
 category: Past
-pubished: true
+published: true
 ---
 
 <h2>Project Description</h2>

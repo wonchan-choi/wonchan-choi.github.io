@@ -1,9 +1,110 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Badge colors and links for the publication list (keys must match the abbr= values in _bibliography/papers.bib).
+# Journals: blue. Conference proceedings: green. Other: pink/grey.
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IR iConf":
+  url: https://publicera.kb.se/ir/issue/view/5744
+  color: "#1165D4"
 
-"Vision":
-  color: "#009f36"
+"TEL":
+  url: https://www.emeraldgrouppublishing.com/journal/el
+  color: "#1165D4"
+
+"JASIST":
+  url: https://asistdl.onlinelibrary.wiley.com/journal/23301643
+  color: "#1165D4"
+
+"JLIS":
+  url: https://journals.sagepub.com/home/lis
+  color: "#1165D4"
+
+"IPM":
+  url: https://www.sciencedirect.com/journal/information-processing-and-management
+  color: "#1165D4"
+
+"LISR":
+  url: https://www.sciencedirect.com/journal/library-and-information-science-research
+  color: "#1165D4"
+
+"Appl Sci":
+  url: https://www.mdpi.com/journal/applsci
+  color: "#1165D4"
+
+"ACR":
+  url: https://acr.comm.or.kr/
+  color: "#1165D4"
+
+"J Imaging":
+  url: https://www.mdpi.com/journal/jimaging
+  color: "#1165D4"
+
+"Gerontech":
+  url: https://journal.gerontechnology.org/Aim.aspx
+  color: "#1165D4"
+
+"JAG":
+  url: https://journals.sagepub.com/home/jag
+  color: "#1165D4"
+
+"IJMI":
+  url: https://www.sciencedirect.com/journal/international-journal-of-medical-informatics
+  color: "#1165D4"
+
+"JAMIA":
+  url: https://academic.oup.com/jamia
+  color: "#1165D4"
+
+"HIJ":
+  url: https://journals.sagepub.com/home/jhi
+  color: "#1165D4"
+
+"InnoAging":
+  url: https://academic.oup.com/innovateage
+  color: "#1165D4"
+
+"MJLIS":
+  url: https://mjlis.um.edu.my/
+  color: "#1165D4"
+
+"JKSLIS":
+  url: https://journal.kci.go.kr/kslis
+  color: "#1165D4"
+
+"KOSIM":
+  url: https://journal.kci.go.kr/kosim
+  color: "#1165D4"
+
+"eGEMs":
+  url: https://academyhealth.org/publications/2017-04/egems-journal-electronic-health-data-and-methods
+  color: "#1165D4"
+
+"iConf ConfProc":
+  url: https://www.ischools.org/iconference
+  color: "#32c96f"
+
+"ASIST ConfProc":
+  url: https://www.asist.org/meetings-events/am/
+  color: "#32c96f"
+
+"AMCIS ConfProc":
+  url: https://aisnet.org/page/AMCISPage
+  color: "#32c96f"
+
+"HICSS ConfProc":
+  url: https://hicss.hawaii.edu/
+  color: "#32c96f"
+
+"CHI ConfProc":
+  url: https://dl.acm.org/conference/chi
+  color: "#32c96f"
+
+"AH ConfProc":
+  color: "#32c96f"
+
+"Concordium ConfProc":
+  color: "#32c96f"
+
+"Dissertation":
+  color: "#ff6699"
+
+"Dataset":
+  color: "#6c757d"

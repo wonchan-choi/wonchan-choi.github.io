@@ -5,7 +5,7 @@ description: Funded by UWM CCEP to explore college students' use of generative a
 img: assets/img/UWM-logo.png
 importance: 1
 category: Past
-pubished: true
+published: true
 ---
 
 <h2>Project Description</h2>
