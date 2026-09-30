@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Professor, <a href='https://lis.skku.edu/eng_lis/index.do'>iSchool</a>, Sungkyunkwan University
 
