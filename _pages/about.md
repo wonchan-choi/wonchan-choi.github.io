@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate Professor, <a href='https://lis.skku.edu/eng_lis/index.do'>iSchool</a>, Sungkyunkwan University
 
 profile:
   align: right
-  image: 
+  image: Prof_Pic_WChoi.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>600th Anniversary Hall, Rm#10422</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor in the [iSchool](https://lis.skku.edu/eng_lis/index.do) at [Sungkyunkwan University](https://eng.skku.edu/eng/index.do). Previsouly, I was an associate professor in the School of Information Studies [(iSchool)](https://uwm.edu/informationstudies/) at the University of Wisconsin-Milwaukee (https://uwm.edu/). 
+I am an associate professor in the [iSchool](https://lis.skku.edu/eng_lis/index.do) at [Sungkyunkwan University](https://eng.skku.edu/eng/index.do). Previously, I was an associate professor in the School of Information Studies [(iSchool)](https://uwm.edu/informationstudies/) at the [University of Wisconsin-Milwaukee](https://uwm.edu/).
 
 My research aims to better understand and improve how people seek, use, and create information to accomplish various goals in their daily lives. Taking a human-centered approach, I study information behavior in technology-mediated environments, such as the web and AI-powered systems, with the goal of generating insights that benefit both academic research and real-world applications.
 
