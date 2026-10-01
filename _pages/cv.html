@@ -1,0 +1,77 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+nav: true
+nav_order: 5
+cv_pdf: /assets/pdf/Choi-CV.pdf
+---
+
+{% comment %} Content lives in _data/cv_full.yml (transcribed from the PDF CV). Edit that file to update this page. {% endcomment %}
+{% assign cv = site.data.cv_full %}
+
+<style>
+  .acv-top { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem 2rem; margin-bottom: 1.5rem; }
+  .acv-top p { margin: 0; line-height: 1.5; }
+  .acv-pdf { display: inline-flex; align-items: center; gap: 0.4rem; align-self: flex-start; padding: 0.35rem 0.8rem; border: 1px solid var(--global-theme-color); border-radius: 4px; color: var(--global-theme-color); font-size: 0.9rem; white-space: nowrap; }
+  .acv-pdf:hover { background: var(--global-theme-color); color: var(--global-bg-color); text-decoration: none; }
+  .acv-nav { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; font-size: 0.85rem; padding: 0.6rem 0; border-top: 1px solid var(--global-divider-color); border-bottom: 1px solid var(--global-divider-color); margin-bottom: 1rem; }
+  .acv-nav a { color: var(--global-text-color-light); }
+  .acv-nav a:hover { color: var(--global-theme-color); }
+  .acv h2 { font-size: 1.25rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--global-theme-color); margin: 2.25rem 0 0.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--global-divider-color); scroll-margin-top: 4.5rem; }
+  .acv h3 { font-size: 1.02rem; font-weight: 600; margin: 1.5rem 0 0.5rem; }
+  .acv-intro { margin: 0 0 0.75rem; }
+  .acv-list { list-style: none; margin: 0; padding: 0; }
+  .acv-item { display: flex; gap: 1rem; padding: 0.35rem 0; line-height: 1.5; }
+  .acv-tag { flex: 0 0 2.6rem; color: var(--global-text-color-light); font-variant-numeric: tabular-nums; }
+  .acv-body { flex: 1 1 auto; min-width: 0; }
+  .acv-sub { display: block; color: var(--global-text-color-light); font-size: 0.93rem; }
+  .acv-note { display: block; font-size: 0.93rem; color: var(--global-theme-color); }
+  .acv-note::before { content: "★ "; }
+  .acv-date { flex: 0 0 auto; text-align: right; white-space: nowrap; color: var(--global-text-color-light); font-size: 0.93rem; font-variant-numeric: tabular-nums; }
+  @media (max-width: 576px) {
+    .acv-item { flex-wrap: wrap; gap: 0 0.75rem; }
+    .acv-tag { flex-basis: auto; }
+    .acv-body { flex-basis: calc(100% - 3.5rem); }
+    .acv-date { flex-basis: 100%; text-align: left; order: -1; font-size: 0.85rem; }
+  }
+</style>
+
+<div class="acv">
+  <div class="acv-top">
+    <div>
+      {% for line in cv.contact %}<p>{{ line }}</p>{% endfor %}
+      <p>Email: <a href="mailto:{{ cv.email }}">{{ cv.email }}</a>{% if cv.phone %} · Phone: {{ cv.phone }}{% endif %}</p>
+    </div>
+    <a class="acv-pdf" href="{{ page.cv_pdf | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa-solid fa-file-pdf"></i> Download PDF
+    </a>
+  </div>
+
+  <nav class="acv-nav" aria-label="CV sections">
+    {% for section in cv.sections %}<a href="#{{ section.title | slugify }}">{{ section.title }}</a>{% endfor %}
+  </nav>
+
+  {% for section in cv.sections %}
+    <h2 id="{{ section.title | slugify }}">{{ section.title }}</h2>
+    {% for group in section.groups %}
+      {% if group.heading %}<h3>{{ group.heading }}</h3>{% endif %}
+      {% if group.intro %}<p class="acv-intro">{{ group.intro | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+      {% if group.entries %}
+        <ul class="acv-list">
+          {% for item in group.entries %}
+            <li class="acv-item">
+              {% if item.tag %}<span class="acv-tag">[{{ item.tag }}]</span>{% endif %}
+              <span class="acv-body">
+                {{- item.text | markdownify | remove: '<p>' | remove: '</p>' | strip -}}
+                {% for s in item.sub %}<span class="acv-sub">{{ s | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>{% endfor %}
+                {% if item.note %}<span class="acv-note">{{ item.note }}</span>{% endif %}
+              </span>
+              {% if item.date %}<span class="acv-date">{{ item.date }}</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>

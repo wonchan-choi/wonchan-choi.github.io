@@ -21,10 +21,6 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 10 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am an associate professor in the [iSchool](https://lis.skku.edu/eng_lis/index.do) at [Sungkyunkwan University](https://eng.skku.edu/eng/index.do). Previously, I was an associate professor in the School of Information Studies [(iSchool)](https://uwm.edu/informationstudies/) at the [University of Wisconsin-Milwaukee](https://uwm.edu/).

@@ -1,0 +1,639 @@
+# Full CV content rendered by _pages/cv.md. Transcribed from assets/pdf/Choi-CV.pdf.
+# Each item: text (markdown), optional tag ([J22]), sub (extra lines), note (award line), date (right column).
+name: Wonchan Choi
+contact:
+- School of Information Studies
+- University of Wisconsin-Milwaukee
+- PO Box 413, Milwaukee, WI 53201-0413, USA
+email: wchoi@uwm.edu
+phone: +1 414-251-5753
+sections:
+- title: Academic Appointments
+  groups:
+  - entries:
+    - text: '**Associate Professor**, School of Information Studies'
+      sub:
+      - University of Wisconsin-Milwaukee, Milwaukee, WI, USA
+      date: 2024–present
+    - text: '**Assistant Professor**, School of Information Studies'
+      sub:
+      - University of Wisconsin-Milwaukee, Milwaukee, WI, USA
+      date: 2018–2024
+    - text: '**Visiting Assistant Professor**, School of Information Studies'
+      sub:
+      - University of Wisconsin-Milwaukee, Milwaukee, WI, USA
+      date: 2017–2018
+    - text: '**Postdoctoral Fellow**, The Business School'
+      sub:
+      - Worcester Polytechnic Institute, Worcester, MA, USA
+      date: 2015–2017
+    - text: '**Graduate Assistant**, School of Information'
+      sub:
+      - Florida State University, Tallahassee, FL, USA
+      date: 2010–2015
+    - text: '**Lecturer**, Librarian Certificate Program'
+      sub:
+      - Busan Women’s College, Busan, Korea
+      date: '2010'
+- title: Education
+  groups:
+  - entries:
+    - text: '**PhD in Information Studies**'
+      sub:
+      - Florida State University, Tallahassee, FL, USA
+      - 'Dissertation: *A new framework of web credibility assessment and an exploratory study of older adults’ information behavior on the web*'
+      note: Recipient of the 2016 FSU CCI Outstanding Dissertation Award
+      date: '2015'
+    - text: '**Master of Library and Information Science**'
+      sub:
+      - Pusan National University, Busan, Korea
+      - 'Thesis: *A study on the development of a model for the evaluation of electronic journals in university libraries*'
+      note: Recipient of the 2009 PNU Best Thesis Award in Social Sciences
+      date: '2008'
+    - text: '**Bachelor of Library and Information Science** (Magna Cum Laude)'
+      sub:
+      - Pusan National University, Busan, Korea
+      date: '2003'
+- title: Research, Scholarship, & Professional Activities
+  groups:
+  - intro: '**Research Interests:** Generative artificial intelligence (GenAI) literacy; credibility assessment of user- and AI-generated information; usability and accessibility of information retrieval systems for disadvantaged user groups'
+  - heading: Articles in Peer-Reviewed Journals
+    entries:
+    - text: 'Choi, W., & Lee, H. S. (2026). Perceived importance and predictive power: Key criteria for judging information credibility on social Q&A platforms. *The Electronic Library, 44*(2), 361–380.'
+      tag: J22
+    - text: 'Xie, I., Choi, W., Lee, H. S., Hong, B. H., & Wang, S. (2026). Investigating the interactions between individuals with disabilities and information retrieval systems: A review of help-seeking situations, search tactics, and design recommendations. *Journal of the Association for Information Science and Technology, 77*(1), 62–91.'
+      tag: J21
+    - text: 'Choi, W., Bak, H., An, J., Zhang, Y., & Stvilia, B. (2025). College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study. *Journal of the Association for Information Science and Technology, 76*(6), 867–883.'
+      tag: J20
+      note: Awarded the 2024 ASIS&T SIG AI Best Artificial Intelligence Published Paper Award.
+    - text: Xie, I., Choi, W., Wang, S., Lee, H. S., Hong, B. H., Wang, N.-C., & Cudjoe, E. K. (2024). Help-seeking situations related to visual interactions on mobile platforms and recommended designs for blind and visually impaired users. *Journal of Imaging, 10*(8), 205.
+      tag: J19
+    - text: Zheng, Z., Oh, H., Mim, M., Choi, W., & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306.
+      tag: J18
+    - text: 'Choi, W., Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing and Management, 60*(3), 103321.'
+      tag: J17
+    - text: 'Choi, W., Kim, S.Y., & Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138.'
+      tag: J16
+    - text: 'Park, M., Lee, Y., & Choi, W. (2022). Understanding the research landscape of information and communication technology integration in dementia-focused assistive technologies: Mining literature from 1970 to 2020. *Gerontechnology, 21*(1), 1–18.'
+      tag: J15
+    - text: 'Lee, Y., Choi, W., & Park, M. S. (2022). Respite service use among dementia and nondementia caregivers: Findings from the National Caregiving in the U.S. 2015 Survey. *Journal of Applied Gerontology, 41*(6), 1557–1567.'
+      tag: J14
+    - text: 'Choi, W., Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the Pew research center’s information engaged and information wary survey data. *Journal of the Association for Information Science & Technology, 73*(3), 393–406.'
+      tag: J13
+    - text: Wang, S., Lee, H. S., & Choi, W. (2021). A feature-oriented analysis of developers’ descriptions and user reviews of top mHealth applications for diabetes and hypertension. *International Journal of Medical Informatics, 156*, 104598.
+      tag: J12
+    - text: Choi, W., Wang, S., Lee, Y., Oh, H., & Zheng, Z. (2020). A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension. *Journal of the American Medical Informatics Association, 27*(6), 939–945.
+      tag: J11
+    - text: 'Choi, W. (2020). Older adults’ credibility assessment of online health information: An exploratory study using an extended typology of web credibility. *Journal of the Association for Information Science & Technology, 71*(11), 1295–1307.'
+      tag: J10
+    - text: Choi, W. (2019). Older adults’ health information behavior in everyday life settings. *Library & Information Science Research, 41*(4), 100983.
+      tag: J9
+    - text: 'Choi, W., Zheng, H., Franklin, P. & Tulu, B. (2019). mHealth technologies for osteoarthritis self-management and treatment: A systematic review. *Health Informatics Journal, 25*(3), 984–1003.'
+      tag: J8
+    - text: 'Zheng, H., Tulu, B., Choi, W., & Franklin, P. (2017). Using mHealth app to support treatment decision making for knee arthritis: Patient perspective. *eGEMs, 5*(2).'
+      tag: J7
+    - text: Yang, K., Lee, J., & Choi, W. (2016). Publication and citation patterns of Korean LIS research by subject areas. *Malaysian Journal of Library & Information Science, 21*(2), 67–81.
+      tag: J6
+    - text: 'Yang, K., Lee, J., & Choi, W. (2015). Looking beyond the numbers: Bibliometric approach to analysis of LIS research in Korea. *Journal of the Korean Society for Library and Information Science, 49*(4), 241–264.'
+      tag: J5
+    - text: 'Stvilia, B., & Choi, W. (2015). Mobile wellness application-seeking behavior by college students: An exploratory study. *Library & Information Science Research, 37*(3), 201–208.'
+      tag: J4
+    - text: 'Choi, W., & Stvilia, B. (2015). Web credibility assessment: Conceptualization, operationalization, variability, and models. *Journal of the Association for Information Science and Technology, 66*(12), 2399–2414.'
+      tag: J3
+    - text: Chang, D. H., & Choi, W. (2008). Developing and testing of an e-journal evaluation model for university libraries. *Korean Society for Information Management, 25*(4), 165–184.
+      tag: J2
+    - text: Chang, D. H., & Choi, W. (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221.
+      tag: J1
+  - heading: Articles in Peer-Reviewed Conference Proceedings
+    entries:
+    - text: Choi, W., Lee, J., Stvilia, B., Zhang, Y., & Bak, H. (2026). Collaborating with large language models in literature screening for a systematic review of college students’ GenAI literacy. *Information Research, 31*(iConf), 1502–1514.
+      tag: C25
+    - text: 'Xie, I., Choi, W., Lee, H. S., Wang, N. C., & Hong, B. H. (2026). Dimensions of information search strategies: A study of blind and visually impaired users in mobile digital library environments. *Information Research, 31*(iConf), 50–64.'
+      tag: C24
+    - text: 'Choi, W., Bak, H., Stvilia, B., & Zhang, Y. (2025). GenAI competencies in higher education: An analysis of existing literacy frameworks. *Proceedings of the Association for Information Science & Technology, 62*(1), 1399–1401.'
+      tag: C23
+    - text: 'Choi, W., Zhu, L., & Lee, H. S. (2025). Developing an information credibility scale for social media and AI-generated content: Insights from expert and user reviews. *Proceedings of the Association for Information Science & Technology, 62*(1), 1396–1398.'
+      tag: C22
+    - text: 'Yu, X., Zhang, Y., Choi, W., & Chen, A. (2025). Researching health information behaviors: Landscape, AI’s role and its impact. *Proceedings of the Association for Information Science & Technology, 62*(1), 1315–1319.'
+      tag: C21
+    - text: Choi, W., Zhu, L., & Lee, H. S. (2024). Reflective and formative indicators of information credibility on social media. *Proceedings of the Association for Information Science & Technology, 61*(1), 874–876.
+      tag: C20
+    - text: 'An, J., Bak, H., Choi, W., Zhang, Y., & Stvilia, B. (2024). College students’ metaphors for ChatGPT: An exploratory study. *Proceedings of the Association for Information Science & Technology, 61*(1), 846–848.'
+      tag: C19
+    - text: Choi, W., & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *Proceedings of the Association for Information Science & Technology, 60*(1), 929–931.
+      tag: C18
+    - text: 'Choi, W., Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. *Proceedings of the Association for Information Science & Technology, 60*(1), 543–546.'
+      tag: C17
+      note: Ranked among the top 10% of most-viewed papers in the 2023 Proceedings of ASIS&T.
+    - text: 'Lee, H. S., & Choi, W. (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *Proceedings of the iConference*.'
+      tag: C16
+    - text: 'Choi, W., & Stvilia, B. (2022). Developing a theoretical framework for web credibility assessment—A case of social Q&A sites: Preliminary findings. *Proceedings of the 2022 iConference*.'
+      tag: C15
+    - text: Choi, W., Kim, S. Y., & Luo, M. (2020). Validating an extended typology of web credibility assessment. *Proceedings of the Association for Information Science & Technology, 57*(1), e357.
+      tag: C14
+    - text: 'Choi, W., & Haigh, M. (2019). Analyzing divergent methodologies for political fact checking: United States and South Korea. *Proceedings of the Association for Information Science & Technology, 56*(1), 627–628.'
+      tag: C13
+    - text: Wang, S., Lee, H. S., & Choi, W. (2019). Assessing the informativeness of user reviews on mobile health applications for chronic diseases. *Proceedings of the Association for Information Science & Technology, 56*(1), 790–791.
+      tag: C12
+    - text: Choi, W., & Tulu, B. (2017). Effective use of user interface and user experience in an mHealth application. *Proceedings of the 50th Hawaii International Conference on System Sciences*, 3803–3812.
+      tag: C11
+    - text: Choi, W., & Stvilia, B. (2015). A new framework for web credibility assessment. *iConference 2015 Proceedings*.
+      tag: C10
+    - text: Choi, W., & Stvilia, B. (2014). How do college students choose mobile health/wellness applications? *Proceedings of the Association for Information Science & Technology, 51*(1), 790–791.
+      tag: C9
+    - text: 'Choi, W., & Stvilia, B. (2014). College students’ value structure of choosing and using mobile health/wellness applications: Preliminary findings. *iConference 2014 Proceedings*, 1028–1031.'
+      tag: C8
+    - text: Choi, W., & Stvilia, B. (2013). Use of mobile wellness applications and perception of quality. *Proceedings of the Association for Information Science and Technology, 50*(1), 1–4.
+      tag: C7
+    - text: 'Choi, W., Carranza, J., & Fox, M. (2013). Guidelines for older-adult-friendly online tutorial for Facebook: Content, design, and training principles. *Proceedings of the Association for Information Science and Technology, 50*(1), 1–4.'
+      tag: C6
+    - text: Oh, S., Choi, W., & Valisa, S. (2013). The Sonzogno digital library project. *Proceedings of the Association for Information Science and Technology, 50*(1), 1–4.
+      tag: C5
+    - text: Lee, J., & Choi, W. (2013). Difference in citation rates by subject areas of LIS in Korea. *Proceedings of the Association for Information Science and Technology, 50*(1), 1–4.
+      tag: C4
+    - text: 'Choi, W. (2013). What makes online health information credible for older adults?: An exploratory study. *CHI ’13 Extended Abstracts on Human Factors in Computing Systems*, 2671–2676.'
+      tag: C3
+    - text: 'Baeg, J. H., Choi, W., Lee, D. J., & Lee, J. (2012). The impact of the public library on early reading achievement: Using the early childhood longitudinal study (ECLS) 1st grade student sample. *Proceedings of the 2012 iConference*, 538–540.'
+      tag: C2
+    - text: 'Choi, W. (2012). Senior citizens’ credibility assessment of online health information: A proposal of a mixed methods study. *Proceedings of the 2012 iConference*, 620–622.'
+      tag: C1
+  - heading: Presentations at Academic & Professional Conferences
+    entries:
+    - text: 'Choi, W. (2025, November). *College students’ credibility assessments of GenAI-generated information for academic tasks: An interview study* [Paper presentation]. The Association for Information Science & Technology SIG AI Symposium 2025, Arlington, VA, USA.'
+      tag: P17
+    - text: 'Lee, Y., Choi, W., & Park, M. S. (2021, November). *Respite service use among dementia and nondementia caregivers: Findings from the caregiving in the U.S. 2015 survey* [Poster presentation]. The Gerontological Society of America (GSA) 2021 Annual Scientific Meeting (Virtual).'
+      tag: P16
+    - text: Choi, W., & Kim, S. (2021, June). *When design matters in credibility assessment of health-related websites* [Paper presentation]. Annual Meeting of the Korea Speech, Media & Communication Association (Virtual).
+      tag: P15
+    - text: Zheng, Z., Mim, M. S., Oh, H., Lee, Y., & Choi, W. (2020, November). *Can a robot encourage physical exercise for older adults? A pilot robot-mediated Tai Chi exercise study* [Poster presentation]. American Medical Informatics Association 2020 Annual Symposium (Virtual).
+      tag: P14
+    - text: Oh, H., Lee, Y., Choi, W., Zheng, Z. (2019, November). *Challenges in self-management among older adults with hypertension and diabetes* [Poster presentation]. Gerontological Society of America 2019 Annual Scientific Meeting, Austin, TX, USA.
+      tag: P13
+    - text: Choi, W., Lee, Y., Oh, H., & Zheng, Z. (2019, October). *Assistive technologies for older adults with MCC to support self-management* [Slide presentation]. Digital Humanities Lab Technology Initiatives Social 2019, Milwaukee, WI, USA.
+      tag: P12
+    - text: Choi, W., & Tulu, B. (2017, August). *Effects of user interface design and task complexity level on user experience in an mHealth application* [Poster presentation]. Americas Conference on Information Systems 2017, Boston, MA, USA.
+      tag: P11
+    - text: Choi, W., Pagoto, S. L., Boudreaux, E. D., & Tulu, B. (2017, November). *Validating a single-item stress scale for mHealth interventions* [Poster presentation]. American Medical Informatics Association 2017 Annual Symposium, Washington, DC, USA.
+      tag: P10
+    - text: Tulu, B., Choi, W., Zheng, H., & Franklin, P. (2017, June). *A framework to design mHealth apps for supporting self-management of chronic disease* [Poster presentation]. Annual Research Meeting of the AcademyHealth 2017, New Orleans, LA, USA.
+      tag: P9
+    - text: Choi, W. (2017, January). *Older adults’ health information behavior in the context of everyday life information seeking (ELIS)* [Poster presentation]. Association for Library and Information Science Education Annual Conference 2017, Atlanta, GA, USA.
+      tag: P8
+    - text: Zheng, H., Tulu, B., Choi, W., & Franklin, P. (2016, September). *Using mHealth app to support TKR decision making for knee arthritis patients* [Poster presentation]. Concordium 2016, Arlington, VA, USA.
+      tag: P7
+    - text: Choi, W., Tulu, B., Zheng, H., & Franklin, P. (2016, August). *Developing an mHealth application for osteoarthritis patients* [Poster presentation]. Americas Conference on Information Systems 2016, San Diego, CA, USA.
+      tag: P6
+    - text: Choi, W., Pagoto, S. L., Boudreaux, E. D., & Tulu, B. (2016, November). *A single-item stress scale for mHealth interventions* [Poster presentation]. American Medical Informatics Association 2016 Annual Symposium, Chicago, IL, USA.
+      tag: P5
+    - text: 'Tulu, B., Zheng, H., Franklin, P., & Choi, W. (2016, November). *TJR App: A mobile app for shared informed decision making in total joint replacement surgery* [Poster presentation]. 2nd Annual Research Collaboration Celebration Event, Worcester, MA, USA.'
+      tag: P4
+    - text: Choi, W. (2015, January). *Older adults’ credibility assessment of online health information* [Poster presentation]. Association for Library and Information Science Education Annual Conference 2015, Chicago, IL, USA.
+      tag: P3
+    - text: Choi, W. (2014, January). *Implications of assessing the credibility of online Information for the LIS curriculum* [Poster presentation]. Association for Library and Information Science Education Annual Conference 2014, Philadelphia, PA, USA.
+      tag: P2
+    - text: Choi, W. (2013, November). *Credibility assessment of online resources and perceived quality of mobile applications* [Ignite talk]. ASIS&T SIG-USE Symposium 2013, Montreal, Canada.
+      tag: P1
+  - heading: Invited Talks
+    entries:
+    - text: 'PhD Workshop, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, USA. “Designing accessible courses: Practical strategies for inclusive learning.”'
+      date: Apr. 13, 2026
+    - text: 'Special Lecture, Department of Library and Information Science, Kyungpook National University, Daegu, Korea (Virtual). “Applying and extending theories in LIS research: Insights from information credibility assessment studies.”'
+      date: Dec. 16, 2025
+    - text: PhD Workshop, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, USA. “Mastering surveys with Qualtrics.”
+      date: Mar. 12, 2025
+    - text: Joint Seminar of Department of Library and Information Science & College of Nursing, Kyungpook National University, Daegu, Korea (Virtual). “mHealth app development for self-management of chronic conditions.”
+      date: Jun. 7, 2022
+    - text: Brownbag Research Talk Series, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, USA. “Web credibility assessment in social media.”
+      date: Nov. 18, 2021
+    - text: Lecture Series by International Scholars, Pusan National University, Busan, Korea (Virtual). “Human-centered approach toward interdisciplinary research in LIS.”
+      date: Jul. 14, 2021
+    - text: 'PhD Presentation, School of Information Studies, University of Wisconsin-Milwaukee, Milwaukee, WI, USA. “Constructing your CV: How to tell them who you are.”'
+      date: Apr. 10, 2019
+    - text: PhD Seminar Series, Business School, Worcester Polytechnic Institute, Worcester, MA, USA. “User-centered design of health information systems on web and mobile platforms.”
+      date: '2017'
+    - text: PhD Seminar Series, Business School, Worcester Polytechnic Institute, Worcester, MA, USA. “A new framework of web credibility assessment and an exploratory study of older adults’ information behavior on the web.”
+      date: '2016'
+  - heading: Media Mentions & Interviews
+    entries:
+    - text: FSU News & Events at College of Communication & Information, “Collaborative AI research led by FSU alumni and faculty wins 2024 SIG AI Best Paper Award”
+      date: Dec. 2, 2025
+    - text: UWM SOIS News, “SOIS researchers ranked among top 2% in the world”
+      date: Nov. 17, 2025
+    - text: UWM Report, “UWM researchers ranked among top 2% in the world”
+      date: Oct. 29, 2025
+    - text: UWM Report, “UWM professors are reimagining digital libraries for the visually impaired”
+      date: Jul. 11, 2025
+    - text: UWM SOIS News, “Universal accessibility and usability of digital libraries in the mobile environment”
+      date: Aug. 2, 2022
+    - text: UWM Report, “The battle against fake news”
+      date: Jan. 22, 2019
+    - text: FSU News & Events at College of Communication & Information, “FSU associate professor and doctoral candidate publish study on mobile wellness applications”
+      date: Oct. 5, 2015
+    - text: FSU News & Events at College of Communication & Information, “SLIS doc student Choi research selected by ACM Computer-Human Interaction SIG for Paris conference”
+      date: Mar. 10, 2013
+- title: Grants
+  groups:
+  - heading: Research Grants
+    entries:
+    - text: '**PI**, University of Wisconsin-Milwaukee Research Assistance Fund'
+      sub:
+      - '*Validating an information credibility for scale social media and AI-generated content*'
+      - 'Total amount funded: $2,000'
+      date: 2025–2026
+    - text: '**Co-PI**, Institute of Museum and Library Services National Leadership Grants for Libraries'
+      sub:
+      - '*Universal accessibility and usability of digital libraries in the mobile environment: Developing design guidelines to support blind and visually impaired users*'
+      - 'Total amount funded: $695,631 (with PI: Iris Xie)'
+      date: 2022–2026
+    - text: '**PI**, UWM College of Community Engagement & Professions Research Seed Proposal Grant'
+      sub:
+      - '*Rethinking digital literacy in the age of generative AI: College students’ use of ChatGPT for educational purposes*'
+      - 'Total amount funded: $6,000 (with PIs: Yan Zhang & Besiki Stvilia)'
+      date: 2023–2024
+    - text: '**PI**, University of Wisconsin-Milwaukee Research Assistance Fund'
+      sub:
+      - '*Developing a scale for credibility assessment on interactive web platforms*'
+      - 'Total amount funded: $2,451'
+      date: '2023'
+    - text: '**PI**, University of Wisconsin-Milwaukee Research Assistance Fund'
+      sub:
+      - '*Web credibility assessments in the context of social Q&A sites*'
+      - 'Total amount funded: $4,887'
+      date: '2021'
+    - text: '**PI**, University of Wisconsin-Milwaukee Collaborative Research Team Development Grant'
+      sub:
+      - '*Assistive technology for older adults with multiple chronic conditions*'
+      - 'Total amount funded: $15,000 (with PIs: Hyunkyoung Oh, Yura Lee, & Zhi Zheng)'
+      date: 2018–2019
+    - text: '**PI**, Florida State University Dissertation Research Grant'
+      sub:
+      - '*A new framework of web credibility assessment and an exploratory study of older adults’ information behavior on the web*'
+      - 'Total amount funded: $750'
+      date: '2014'
+  - heading: Travel Grants
+    entries:
+    - text: National Science Foundation Travel Grant for Doctoral Colloquium
+      sub:
+      - '*Developing a model for web credibility assessment*'
+      - 'Total amount funded: $1,800 | Conference: 2014 iConference, Berlin, Germany.'
+      date: '2014'
+    - text: Thomson Reuters Travel Grant for Doctoral Seminar for Research and Career Development
+      sub:
+      - '*Older adults’ credibility assessment of online health information*'
+      - 'Total amount funded: $200 | Conference: 2014 ASIS&T Annual Meeting, Seattle, WA, USA.'
+      date: '2014'
+    - text: ACM SIGCHI Travel Grant for Student Research Competition
+      sub:
+      - '*What makes online health information credible for older adults?: An exploratory study.*'
+      - 'Total amount funded: $500 | Conference: 2013 ACM SIGCHI, Paris, France.'
+      date: '2013'
+- title: Awards & Honors
+  groups:
+  - entries:
+    - text: SIG AI Best Artificial Intelligence Published Paper Award, Association for Information Science and Technology Special Interest Group on Artificial Intelligence (SIG AI)
+      date: '2025'
+    - text: Top 2% Researcher in the World in 2024, Stanford-Elsevier
+      date: '2025'
+    - text: 'Top Viewed Article: “Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT” (Ranked among the top 10% of most-viewed papers in the 2023 Proceedings of ASIS&T)'
+      date: '2025'
+    - text: Distinguished Member, Association for Information Science and Technology
+      date: '2024'
+    - text: Outstanding Dissertation Award, College of Communication and Information, Florida State University, Tallahassee, FL, USA
+      date: '2016'
+    - text: Beta Phi Mu International Library and Information Studies Honor Society, Gamma Chapter, Florida State University, Tallahassee, FL, USA
+      date: '2016'
+    - text: Outstanding Doctoral Research Award, College of Communication and Information, Florida State University, FL, USA
+      date: '2013'
+    - text: Doctoral Poster Competition – First Place, College of Communication and Information, Florida State University, FL, USA
+      date: '2013'
+    - text: Southern Scholarship Foundation (SSF) Scholarship, Southern Scholarship Foundation, Tallahassee, FL, USA
+      date: 2012–2015
+    - text: Esther Maglathlin Doctoral Research Fellowship, College of Communication and Information, Florida State University, Tallahassee, FL, USA
+      date: 2012 & 2014
+    - text: H.W. Wilson Scholarship, College of Communication and Information, Florida State University, Tallahassee, FL, USA
+      date: 2011 & 2012
+    - text: Graduate Assistantship, Florida State University, Tallahassee, FL, USA
+      date: 2010–2015
+    - text: Best Thesis Award (Social Sciences), Pusan National University, Busan, Korea
+      date: '2008'
+    - text: Graduate Assistantship, Pusan National University, Busan, Korea
+      date: 2006–2007
+    - text: University Scholarship, Pusan National University, Busan, Korea
+      date: 2000–2002
+- title: Teaching
+  groups:
+  - heading: Courses Taught
+    intro: 'UWM SOIS: University of Wisconsin-Milwaukee School of Information Studies; FSU SI: Florida State University School of Information'
+    entries:
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2026
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (online), UWM SOIS'
+      date: Spring 2026
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Spring 2026
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (onsite), UWM SOIS'
+      date: Fall 2025
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2025
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2025
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Spring 2025
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (online), UWM SOIS'
+      date: Spring 2025
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2024
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (onsite), UWM SOIS'
+      date: Fall 2024
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Spring 2024
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (online), UWM SOIS'
+      date: Spring 2024
+    - text: Instructor, INFOST 999-004 Independent Study (hybrid), UWM SOIS
+      date: Fall 2023
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Fall 2023
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2023
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (online), UWM SOIS'
+      date: Spring 2023
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Spring 2023
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2022
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2022
+    - text: 'Instructor, INFOST 547: User-Centered Interaction Design (online), UWM SOIS'
+      date: Spring 2022
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Spring 2022
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Fall 2021
+    - text: 'Instructor, INFOST 350: Introduction to Application Development (online), UWM SOIS'
+      date: Fall 2021
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2021
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Spring 2021
+    - text: 'Instructor, INFOST 350: Introduction to Application Development (online), UWM SOIS'
+      date: Spring 2021
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Fall 2020
+    - text: 'Instructor, INFOST 350: Introduction to Application Development (online), UWM SOIS'
+      date: Fall 2020
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2020
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (2 online sections), UWM SOIS'
+      date: Spring 2020
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (2 online sections), UWM SOIS'
+      date: Fall 2019
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Summer 2019
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Spring 2019
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Fall 2018
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2018
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (2 online sections), UWM SOIS'
+      date: Spring 2018
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (2 onsite sections), UWM SOIS'
+      date: Spring 2018
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (onsite), UWM SOIS'
+      date: Fall 2017
+    - text: 'Instructor, INFOST 310: Human Factors in Information Seeking and Use (online), UWM SOIS'
+      date: Fall 2017
+    - text: 'Instructor, LIS 3201: Research and Data Analysis for Information Professionals (onsite), FSU SI'
+      date: Fall 2014
+    - text: 'Instructor, LIS 3201: Research and Data Analysis for Information Professionals (onsite), FSU SI'
+      date: Spring 2014
+    - text: 'Teaching Assistant, LIS 5472: Digital Libraries (onsite), FSU SI'
+      date: Fall 2013
+    - text: 'Teaching Assistant, LIS 5408: Management of Information Organizations (online), FSU SI'
+      date: Fall 2013
+    - text: 'Teaching Assistant, LIS 3706: Information System and Service (onsite), FSU SI'
+      date: Spring 2013
+    - text: 'Teaching Assistant, LIS 5472: Digital Libraries (onsite), FSU SI'
+      date: Spring 2013
+    - text: 'Teaching Assistant, LIS 5472: Digital Libraries (onsite), FSU SI'
+      date: Fall 2012
+    - text: 'Teaching Assistant, LIS 5426: Planning, Evaluation, and Financial Management (online), FSU SI'
+      date: Spring 2012
+    - text: 'Teaching Assistant, LIS 5408: Management of Information Organizations (online), FSU SI'
+      date: Spring 2012
+    - text: 'Teaching Assistant, LIS 5362: Design and Production of Network Multimedia (online), FSU SI'
+      date: Fall 2011
+    - text: 'Teaching Assistant, LIS 5408: Management of Information Organizations (online), FSU SI'
+      date: Fall 2011
+    - text: 'Teaching Assistant, LIS 5020: Foundations of the Information Professions (online), FSU SI'
+      date: Summer 2011
+    - text: 'Teaching Assistant, LIS 5916: Introduction to Information Technology (online), FSU SI'
+      date: Summer 2011
+    - text: 'Teaching Assistant, LIS 5408: Management of Information Organizations (online), FSU SI'
+      date: Spring 2011
+    - text: 'Teaching Assistant, LIS 4301: Electronic Media Production (onsite), FSU SI'
+      date: Spring 2011
+    - text: 'Teaching Assistant, LIS 3353: Technologies for Information Professionals (onsite), FSU SI'
+      date: Fall 2010
+    - text: Instructor, Scholarly Database Searching and Utilization (onsite), Busan Women’s College Librarian Certificate Program
+      date: Spring 2010
+  - heading: Guest Lectures
+    entries:
+    - text: 'PRE 3012: Elderly Health Information, Department of Library and Information Science, Sungkyunkwan University, Seoul, Korea (Virtual)'
+      sub:
+      - '*Older Adults and Health Information Technology*'
+      date: '2024'
+    - text: 'INFOST 901: Current Issues in Information Studies, UWM SOIS'
+      sub:
+      - '*Allied disciplinary perspectives in iSchools and the iSchools doctoral experience*'
+      date: '2019'
+    - text: 'MIS 571: Database Applications Development, Business School, Worcester Polytechnic Institute, Worcester, MA, USA'
+      sub:
+      - '*User interfaces for database applications*'
+      date: '2017'
+    - text: 'MIS 573: System Design and Development, Business School, Worcester Polytechnic Institute, Worcester, MA, USA'
+      sub:
+      - '*User interface design for information systems*'
+      date: '2017'
+- title: Service
+  groups:
+  - heading: Editorial Board
+    entries:
+    - text: Member, *The Electronic Library*
+      date: 2023–present
+  - heading: Ad-hoc Journal Reviewer
+    entries:
+    - text: '*Journal of Librarianship & Information Science*'
+      date: '2026'
+    - text: '*Information Processing and Management*'
+      date: '2025'
+    - text: '*Journal of Association for Information Science and Technology*'
+      date: '2025'
+    - text: '*International Journal of Information Management*'
+      date: '2025'
+    - text: '*Journal of Librarianship and Information Science*'
+      date: '2024'
+    - text: '*Information Processing and Management*'
+      date: '2023'
+    - text: '*International Journal of Human–Computer Interaction*'
+      date: '2023'
+    - text: '*Information Processing and Management*'
+      date: '2022'
+    - text: '*Journal of Documentation*'
+      date: '2022'
+    - text: '*Information Processing and Management*'
+      date: '2022'
+    - text: '*Information Processing and Management*'
+      date: '2021'
+    - text: '*Journal of Information Science*'
+      date: '2021'
+    - text: '*Journal of Librarianship and Information Science*'
+      date: '2020'
+    - text: '*Journal of the Association for Information Science and Technology*'
+      date: '2020'
+    - text: '*Health Informatics Journal*'
+      date: '2020'
+    - text: '*International Journal of Human–Computer Interaction*'
+      date: '2019'
+    - text: '*Journal of Information Science*'
+      date: '2019'
+    - text: '*Human–Computer Interaction*'
+      date: '2017'
+    - text: '*Health Informatics Journal*'
+      date: '2017'
+    - text: '*Journal of Librarianship and Information Science*'
+      date: '2016'
+    - text: '*New Media and Society*'
+      date: '2016'
+    - text: '*Behaviour & Information Technology*'
+      date: '2016'
+    - text: '*Journal of Computer-Mediated Communication*'
+      date: '2016'
+    - text: '*Journal of Librarianship & Information Science*'
+      date: '2016'
+    - text: '*International Journal of Qualitative Methods*'
+      date: '2016'
+    - text: '*Journal of Association for Information Science and Technology*'
+      date: '2014'
+  - heading: Conference Reviewer
+    entries:
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2026'
+    - text: iConference
+      date: '2025'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2025'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2024'
+    - text: iConference
+      date: '2023'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2023'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2022'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2021'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2020'
+    - text: Association for Information Science and Technology Annual Meeting
+      date: '2019'
+    - text: iConference
+      date: '2017'
+    - text: American Medical Informatics Association Annual Symposium
+      date: '2017'
+  - heading: Organization Committees
+    entries:
+    - text: Member, Executive Board, Korean Society for Library and Information Science
+      date: 2025–present
+    - text: Member, Awards Committee, Special Interest Group Information Needs, Seeking, & Use (SIG-USE), Association for Information Science & Technology
+      date: '2022'
+  - heading: School & University Committees
+    entries:
+    - text: Chair, MSIST Program Committee, UWM SOIS
+      date: 2025–present
+    - text: Member, Academic Planning and Budget Committee, UWM, SOIS
+      date: 2025–present
+    - text: Chair, Search and Screen Committee (Head of School), UWM SOIS
+      date: '2025'
+    - text: Member, Search and Screen Committee (Tenure-Track Assistant Professor of AI), UWM SOIS
+      date: '2025'
+    - text: Member, Executive Committee, UWM SOIS
+      date: 2024–present
+    - text: Member, Student Grievance and Appeals Committee, UWM SOIS
+      date: 2024–2025
+    - text: Member, MSIST Program Committee, UWM SOIS
+      date: 2024–2025
+    - text: Member, BSIST Program Committee, UWM SOIS
+      date: 2022–2024
+    - text: Member, MSIST Program Committee, UWM SOIS
+      date: 2020–2022
+    - text: Member, Advanced Opportunity Program Fellowship Selection Committee, UWM
+      date: 2019–2022
+    - text: Member, Diversity & Equity Committee, UWM SOIS
+      date: 2019–2022
+    - text: Member, Search and Screen Committee (Tenure-Track Assistant Professor of Data Science), UWM SOIS
+      date: '2019'
+    - text: Member, BSIST Program Committee, UWM SOIS
+      date: 2018–2019
+    - text: Core Course Coordinator, Human Factors in Information Seeking and Use, UWM SOIS
+      date: 2018–present
+  - heading: Dissertation Committee
+    entries:
+    - text: Chair, Emmanuel Onaivi, UWM SOIS
+      date: 2025–present
+    - text: Member, Omorodion Okuonghae, UWM SOIS
+      date: 2026–present
+    - text: Member, Bo Hyun Hong, UWM SOIS
+      date: 2025–present
+    - text: Member, Opeyemi Rachael Oboh, UWM SOIS
+      date: 2025–present
+    - text: Member, Emmanuel Cudjoe, UWM SOIS
+      date: 2024–present
+    - text: Member, Noah Darko Adjei, UWM SOIS
+      date: 2023–present
+    - text: Member, Shengang Wang, UWM SOIS
+      date: 2021–2025
+    - text: Member, Melissa Castillo, UWM SOIS
+      date: 2020–present
+    - text: Member, Tae Hee Lee, UWM SOIS
+      date: 2022–2023
+    - text: Member, Mutasim Alfadhel
+      date: 2019–2022
+    - text: Member, Yazeed Alhumaidan
+      date: 2019–2021
+- title: Professional Development
+  groups:
+  - heading: Professional Memberships
+    entries:
+    - text: Association of College & Research Libraries
+      date: 2024–present
+    - text: American Library Association
+      date: 2024–present
+    - text: Association for Information Science and Technology (ASIS&T)
+      date: 2013–present
+  - heading: Certificates
+    entries:
+    - text: Certificate in Human-Computer Interaction for User Experience Design
+      sub:
+      - Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT)
+      date: '2022'
+    - text: Certificate in Accessibility for Instructors
+      sub:
+      - Office of the Provost, Center for Excellence in Teaching and Learning, and Accessibility Resource Center, UW-Milwaukee
+      date: '2021'
+    - text: Graduate Certificate in Measurement and Statistics
+      sub:
+      - College of Education, Florida State University
+      date: '2014'
+    - text: Program for Instructional Excellence Certificate
+      sub:
+      - Center for Teaching and Learning, Florida State University
+      date: '2010'
+    - text: Engineer Information Processing
+      sub:
+      - Human Resources Development Service of Korea
+      date: '2008'
+    - text: Korean Librarian Certificate
+      sub:
+      - Korean Library Association (KLA)
+      date: '2003'
