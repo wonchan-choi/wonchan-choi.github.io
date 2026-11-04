@@ -9,7 +9,7 @@ profile:
   image: Prof_Pic_WChoi_v2.jpg # previous photo: Prof_Pic_WChoi.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>600th Anniversary Hall, Rm#10422</p>
+    <p>600th Anniversary Building, Room 10422</p>
     <p>25-2, Sungkyunkwan-ro, Jongno-gu</p>
     <p>Seoul, Korea</p>
 
