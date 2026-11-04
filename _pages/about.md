@@ -6,7 +6,7 @@ subtitle: Associate Professor, <a href='https://lis.skku.edu/eng_lis/index.do'>i
 
 profile:
   align: right
-  image: Prof_Pic_WChoi.jpeg
+  image: Prof_Pic_WChoi_v2.jpg # previous photo: Prof_Pic_WChoi.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>600th Anniversary Hall, Rm#10422</p>
