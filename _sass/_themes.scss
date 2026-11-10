@@ -208,3 +208,24 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/* Content links: SKKU Dark Green text with a SKKU Yellow-Green underline, turning SKKU Orange on hover.
+   Added so links stand out from body text (official colors: skku.edu/skku/about/symbol/symbol_01.do). */
+article a:not(.btn),
+.news a {
+  text-decoration: underline;
+  text-decoration-color: #8dc63f;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+/* No underline on the social icons at the bottom of the About page */
+article .contact-icons a {
+  text-decoration: none;
+}
+
+article a:not(.btn):hover,
+.news a:hover {
+  color: #ff6c0f;
+  text-decoration-color: #ff6c0f;
+}
